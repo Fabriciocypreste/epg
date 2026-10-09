@@ -1,6 +1,6 @@
 # EPG dos canais do M3U
 
-Gerador XMLTV com as seis fontes fornecidas. O catálogo extraído de `playlist_new.m3u` foi preparado localmente: 607 IDs para 1.085 entradas `.ts`. Sua publicação no repositório público ficou bloqueada pela revisão automática; `channels.json` começa vazio. Depois de tornar o repositório privado, importe o M3U localmente ou solicite a inclusão do catálogo preparado. Filmes `.mp4` e `.mkv` ficam fora. O M3U original, suas URLs, usuário e senha não são publicados.
+Gerador XMLTV com as seis fontes fornecidas e o catálogo de `playlist_new.m3u`: 607 IDs para 1.085 entradas `.ts`. O catálogo está incluído em `channels.json` no repositório privado. Filmes `.mp4` e `.mkv` ficam fora. O M3U original, suas URLs, usuário e senha não são publicados.
 
 ## Funcionamento
 
@@ -32,7 +32,7 @@ O player continua recebendo o `.ts` pelo fluxo atual do seu app. XMLTV fornece t
 
 O repositório estava vazio antes desta implementação. Não havia login, API de autenticação nem documentação de sessões para analisar. Este gerador não adiciona autenticação de usuários.
 
-**Componentes e fluxo:** Actions → Python → fontes XMLTV HTTPS → arquivos gerados → app. Os downloads XMLTV não enviam credenciais do M3U. O app obtém o EPG público por GET, sem token. O gerador não acessa nem retransmite os vídeos `.ts`.
+**Componentes e fluxo:** Actions → Python → fontes XMLTV HTTPS → arquivos gerados → app. Os downloads XMLTV não enviam credenciais do M3U. O repositório está privado: o app deverá obter o EPG por um endpoint do backend. Não inclua tokens do GitHub no aplicativo. O gerador não acessa nem retransmite os vídeos `.ts`.
 
 **Token do GitHub:** `actions/checkout` usa o `GITHUB_TOKEN` temporário da execução para obter o código e fazer o commit dos arquivos gerados. A permissão `contents: write` está declarada no workflow. Nenhum token permanente ou senha fica no código; o token da execução não deve ser entregue ao app. O checkout persiste a credencial de Git durante o job e a remove na limpeza.
 
