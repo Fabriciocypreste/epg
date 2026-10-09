@@ -47,8 +47,7 @@
     "id": "53",
     "names": [
       "TV Gazeta Vitória ES HD",
-      "TV Gazeta Vitória ES FHD",
-      "GAZETA HD"
+      "TV Gazeta Vitória ES FHD"
     ],
     "source_id": "53"
   },
@@ -1289,12 +1288,9 @@
     "names": [
       "ESPN 5 FHD",
       "ESPN 5 HD",
-      "ESPN 5 SD",
-      "ESPN FHD",
-      "ESPN HD",
-      "ESPN SD"
+      "ESPN 5 SD"
     ],
-    "source_id": "ESPN 4k"
+    "source_id": "meuguia-ES5"
   },
   {
     "id": "50",
@@ -4709,5 +4705,21 @@
       "XXX - LATINA HD"
     ],
     "source_id": ""
+  },
+  {
+    "id": "ESPN 4k--espn",
+    "names": [
+      "ESPN FHD",
+      "ESPN HD",
+      "ESPN SD"
+    ],
+    "source_id": "meuguia-ESP"
+  },
+  {
+    "id": "53--gazeta",
+    "names": [
+      "GAZETA HD"
+    ],
+    "source_id": "claro-1292"
   }
 ]

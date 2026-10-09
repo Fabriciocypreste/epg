@@ -1,0 +1,23 @@
+{
+  "note": "Aplicar new_id ao tvg-id/epg_id dos nomes indicados no cadastro do app. O M3U original não foi alterado. Os demais canais permanecem como estavam.",
+  "corrections": [
+    {
+      "old_id": "ESPN 4k",
+      "new_id": "ESPN 4k--espn",
+      "names": [
+        "ESPN FHD",
+        "ESPN HD",
+        "ESPN SD"
+      ],
+      "source_id": "meuguia-ESP"
+    },
+    {
+      "old_id": "53",
+      "new_id": "53--gazeta",
+      "names": [
+        "GAZETA HD"
+      ],
+      "source_id": "claro-1292"
+    }
+  ]
+}
