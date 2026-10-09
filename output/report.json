@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T10:45:13.525125+00:00",
+  "generated_at": "2026-10-09T11:11:01.767047+00:00",
   "channels": [
     {
       "id": "m3u-9a68ecbd58739644",
@@ -55,10 +55,9 @@
       "id": "53",
       "names": [
         "TV Gazeta Vitória ES HD",
-        "TV Gazeta Vitória ES FHD",
-        "GAZETA HD"
+        "TV Gazeta Vitória ES FHD"
       ],
-      "status": "ambiguous",
+      "status": "no_programming",
       "programmes": 0
     },
     {
@@ -1458,7 +1457,7 @@
         "ESPN 4 SD"
       ],
       "status": "mapped",
-      "programmes": 122,
+      "programmes": 121,
       "source": "generated/meuguia.xml",
       "source_id": "meuguia-ES4"
     },
@@ -1467,13 +1466,12 @@
       "names": [
         "ESPN 5 FHD",
         "ESPN 5 HD",
-        "ESPN 5 SD",
-        "ESPN FHD",
-        "ESPN HD",
-        "ESPN SD"
+        "ESPN 5 SD"
       ],
-      "status": "ambiguous",
-      "programmes": 0
+      "status": "mapped",
+      "programmes": 95,
+      "source": "generated/meuguia.xml",
+      "source_id": "meuguia-ES5"
     },
     {
       "id": "50",
@@ -1626,7 +1624,7 @@
         "Combate SD"
       ],
       "status": "mapped",
-      "programmes": 89,
+      "programmes": 90,
       "source": "generated/meuguia.xml",
       "source_id": "meuguia-135"
     },
@@ -5494,13 +5492,35 @@
       ],
       "status": "no_programming",
       "programmes": 0
+    },
+    {
+      "id": "ESPN 4k--espn",
+      "names": [
+        "ESPN FHD",
+        "ESPN HD",
+        "ESPN SD"
+      ],
+      "status": "mapped",
+      "programmes": 120,
+      "source": "generated/meuguia.xml",
+      "source_id": "meuguia-ESP"
+    },
+    {
+      "id": "53--gazeta",
+      "names": [
+        "GAZETA HD"
+      ],
+      "status": "mapped",
+      "programmes": 23,
+      "source": "generated/claro.xml",
+      "source_id": "claro-1292"
     }
   ],
   "sources": [
     {
       "url": "generated/meuguia.xml",
       "status": "ok",
-      "usable_programmes": 1335
+      "usable_programmes": 1336
     },
     {
       "url": "generated/vivo.xml",
@@ -5548,8 +5568,8 @@
       "error_type": "HTTPError"
     }
   ],
-  "programmes": 6231,
-  "mapped_channels": 88,
+  "programmes": 6469,
+  "mapped_channels": 91,
   "scrapers": [
     {
       "provider": "claro",
@@ -5576,7 +5596,7 @@
       "provider": "meuguia",
       "status": "ok",
       "channels": 10,
-      "programmes": 1335,
+      "programmes": 1336,
       "failed_channel_requests": 0
     }
   ]
