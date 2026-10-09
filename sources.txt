@@ -1,0 +1,6 @@
+https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml
+https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/globo.xml
+https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml
+https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/vivoplay.xml
+https://raw.githubusercontent.com/iptv-com/epg/main/guides/brazil.xml
+https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml
