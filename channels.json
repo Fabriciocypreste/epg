@@ -1,1 +1,4713 @@
-[]
+[
+  {
+    "id": "m3u-9a68ecbd58739644",
+    "names": [
+      "24H • RUNTIME CINE ESPANTO"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-b825bf6aaa52dd50",
+    "names": [
+      "24H • RUNTIME BRASIL HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-06cbe122e8216836",
+    "names": [
+      "24H • RUNTIME ROMANCE"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-1acd9dc137e64f60",
+    "names": [
+      "TV Tem Bauru HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-cf10ae1c38d1061b",
+    "names": [
+      "TV Tem Bauru FHD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "Globo TV Rio Sul FHD",
+    "names": [
+      "TV Rio Sul HD",
+      "Globo TV Rio Sul HD",
+      "Globo TV Diário HD"
+    ],
+    "source_id": "Globo TV Rio Sul FHD"
+  },
+  {
+    "id": "53",
+    "names": [
+      "TV Gazeta Vitória ES HD",
+      "TV Gazeta Vitória ES FHD",
+      "GAZETA HD"
+    ],
+    "source_id": "53"
+  },
+  {
+    "id": "TV Gazeta SP FHD",
+    "names": [
+      "TV Gazeta Sul ES HD"
+    ],
+    "source_id": "TV Gazeta SP FHD"
+  },
+  {
+    "id": "m3u-ff08c52fea3fdbd2",
+    "names": [
+      "TV Diário Fortaleza HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "Globo TV Morena FHD",
+    "names": [
+      "Globo TV Vilhena HD",
+      "Globo TV Morena SD",
+      "Globo TV Morena Pontaporã HD",
+      "Globo TV Morena HD",
+      "Globo TV Morena FHD",
+      "Globo TV Morena Corumbá HD"
+    ],
+    "source_id": "Globo TV Morena FHD"
+  },
+  {
+    "id": "Globo TV Verdes Mares Cariri FHD",
+    "names": [
+      "Globo TV Verdes Mares CE SD",
+      "Globo TV Verdes Mares CE HD",
+      "Globo TV Verdes Mares CE FHD",
+      "Globo TV Verdes Mares Cariri HD"
+    ],
+    "source_id": "Globo TV Verdes Mares Cariri FHD"
+  },
+  {
+    "id": "Globo TV Vanguarda FHD",
+    "names": [
+      "Globo TV Vanguarda TTE HD",
+      "Globo TV Vanguarda SJC HD",
+      "Globo TV Vanguarda SJC FHD"
+    ],
+    "source_id": "Globo TV Vanguarda FHD"
+  },
+  {
+    "id": "Globo TV Tribuna Santos FHD",
+    "names": [
+      "Globo TV Tribuna Santos SD",
+      "Globo TV Tribuna Santos HD"
+    ],
+    "source_id": "Globo TV Tribuna Santos FHD"
+  },
+  {
+    "id": "Globo TV Vanguarda Taubate FHD",
+    "names": [
+      "Globo TV Tem Taubaté HD"
+    ],
+    "source_id": "Globo TV Vanguarda Taubate FHD"
+  },
+  {
+    "id": "Globo Sorocaba FHD",
+    "names": [
+      "Globo TV TEM Sorocaba HD"
+    ],
+    "source_id": "Globo Sorocaba FHD"
+  },
+  {
+    "id": "Globo TV Tem Itapetininga FHD",
+    "names": [
+      "Globo TV Tem Itapetininga HD"
+    ],
+    "source_id": "Globo TV Tem Itapetininga FHD"
+  },
+  {
+    "id": "m3u-285ccaf97094d71d",
+    "names": [
+      "Globo TV São Francisco HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "Globo TV Sudoeste FHD",
+    "names": [
+      "Globo TV Sudoeste FHD",
+      "Globo TV Oeste HD"
+    ],
+    "source_id": "Globo TV Sudoeste FHD"
+  },
+  {
+    "id": "Globo TV Subae FHD",
+    "names": [
+      "Globo TV Subaé BA HD"
+    ],
+    "source_id": "Globo TV Subae FHD"
+  },
+  {
+    "id": "Globo Inter TV Serra Mar FHD",
+    "names": [
+      "Globo TV Serra Mar HD"
+    ],
+    "source_id": "Globo Inter TV Serra Mar FHD"
+  },
+  {
+    "id": "Globo TV Sergipe FHD",
+    "names": [
+      "Globo TV Sergipe HD",
+      "Globo TV Sergipe FHD"
+    ],
+    "source_id": "Globo TV Sergipe FHD"
+  },
+  {
+    "id": "m3u-e68e4290126ac13f",
+    "names": [
+      "Globo TV Recife HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-e2187639262517a5",
+    "names": [
+      "Globo TV Recife FHD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-898d394b645a0abe",
+    "names": [
+      "Globo TV RBS Bagé HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "Globo TV Rede Amazonica Porto Velho FHD",
+    "names": [
+      "Globo TV Porto Velho HD",
+      "Globo Amazônica Porto Velho FHD"
+    ],
+    "source_id": "Globo TV Rede Amazonica Porto Velho FHD"
+  },
+  {
+    "id": "m3u-25c008b204e98309",
+    "names": [
+      "Globo TV Parintins HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "Globo Parana FHD",
+    "names": [
+      "Globo TV Paraiba HD",
+      "Globo TV JI-Parana HD",
+      "Globo RPC Paranavaí HD",
+      "Globo RPC Guarapuava HD"
+    ],
+    "source_id": "Globo Parana FHD"
+  },
+  {
+    "id": "Globo TV Mirante FHD",
+    "names": [
+      "Globo TV Mirante São Luis HD",
+      "Globo TV Mirante São Luis FHD",
+      "Globo TV Mirante Imperatriz HD",
+      "Globo TV Mirante HD",
+      "Globo TV Mirante FHD",
+      "Globo TV Mirante Balsas HD"
+    ],
+    "source_id": "Globo TV Mirante FHD"
+  },
+  {
+    "id": "Globo TV Mirante Cocais FHD",
+    "names": [
+      "Globo TV Mirante Cocais HD",
+      "Globo TV Mirante Cocais FHD"
+    ],
+    "source_id": "Globo TV Mirante Cocais FHD"
+  },
+  {
+    "id": "Globo TV Liberal Belem FHD",
+    "names": [
+      "Globo TV Liberal Redenção HD",
+      "Globo TV Liberal Parauabebas HD",
+      "Globo TV Liberal Paragominas HD",
+      "Globo TV Liberal Marabá HD",
+      "Globo TV Liberal Castanhal HD",
+      "Globo TV Liberal Belém HD",
+      "Globo TV Liberal Belem HD",
+      "Globo TV Liberal Altamira HD",
+      "Globo TV Belem HD"
+    ],
+    "source_id": "Globo TV Liberal Belem FHD"
+  },
+  {
+    "id": "m3u-bd8d1b31e0911c23",
+    "names": [
+      "Globo TV Itacotiara HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "Globo TV Integracao Uberlandia FHD",
+    "names": [
+      "Globo TV Integração Uberlândia HD",
+      "Globo TV Integração Uberlandia FHD",
+      "Globo Integração Uberlândia HD"
+    ],
+    "source_id": "Globo TV Integracao Uberlandia FHD"
+  },
+  {
+    "id": "Globo TV Integracao Uberaba FHD",
+    "names": [
+      "Globo TV Integração Uberaba HD",
+      "Globo TV Integração Ituitaba HD"
+    ],
+    "source_id": "Globo TV Integracao Uberaba FHD"
+  },
+  {
+    "id": "Globo TV Integracao Juiz de Fora FHD",
+    "names": [
+      "Globo TV Integração Juiz de Fora MG HD",
+      "Globo TV Integração Juiz de Fora MG FHD",
+      "Globo TV Integração Juiz de Fora HD"
+    ],
+    "source_id": "Globo TV Integracao Juiz de Fora FHD"
+  },
+  {
+    "id": "Globo TV Integracao Araxa FHD",
+    "names": [
+      "Globo TV Integração Araxá HD"
+    ],
+    "source_id": "Globo TV Integracao Araxa FHD"
+  },
+  {
+    "id": "m3u-b590e21fd035e42e",
+    "names": [
+      "Globo TV Guajará Mirim HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "Globo TV Gazeta Alagoas FHD",
+    "names": [
+      "Globo TV Gazeta ES HD",
+      "Globo TV Gazeta Alagoas HD",
+      "Globo TV Gazeta Alagoas FHD"
+    ],
+    "source_id": "Globo TV Gazeta Alagoas FHD"
+  },
+  {
+    "id": "Globo TV Fronteira P. Prudente FHD",
+    "names": [
+      "Globo TV Fronteira Paulista HD"
+    ],
+    "source_id": "Globo TV Fronteira P. Prudente FHD"
+  },
+  {
+    "id": "Globo TV Diario Mogi Das Cruzes FHD",
+    "names": [
+      "Globo TV Diário Mogi HD"
+    ],
+    "source_id": "Globo TV Diario Mogi Das Cruzes FHD"
+  },
+  {
+    "id": "Globo TV Clube Teresina FHD",
+    "names": [
+      "Globo TV Teresina Piauí HD",
+      "Globo TV Teresina Piauí FHD"
+    ],
+    "source_id": "Globo TV Clube Teresina FHD"
+  },
+  {
+    "id": "Globo TV Cabo Branco FHD",
+    "names": [
+      "Globo TV Cabo Branco HD",
+      "Globo TV Cabo Branco FHD"
+    ],
+    "source_id": "Globo TV Cabo Branco FHD"
+  },
+  {
+    "id": "Globo Brasilia FHD",
+    "names": [
+      "Globo TV Brasilia SD",
+      "Globo TV Brasilia HD",
+      "Globo TV Brasilia FHD"
+    ],
+    "source_id": "Globo Brasilia FHD"
+  },
+  {
+    "id": "Globo Bahia HD",
+    "names": [
+      "Globo Tv Bahia SD",
+      "Globo TV Bahia HD",
+      "Globo TV Bahia FHD",
+      "Globo Bahia VDC HD",
+      "BR: Globo Bahia UHD"
+    ],
+    "source_id": "Globo Bahia HD"
+  },
+  {
+    "id": "Globo TV Asa Branca FHD",
+    "names": [
+      "Globo TV Asa Branca FHD"
+    ],
+    "source_id": "Globo TV Asa Branca FHD"
+  },
+  {
+    "id": "Globo TV Anhanguera HD",
+    "names": [
+      "Globo TV Anhanguera Tocantins HD",
+      "Globo TV Anhanguera Goiania HD",
+      "Globo TV Anhanguera Goiania FHD",
+      "Globo TV Anhanguera  Goiania SD"
+    ],
+    "source_id": "Globo TV Anhanguera HD"
+  },
+  {
+    "id": "m3u-3db5c9802daa7d35",
+    "names": [
+      "Globo TV Alvorada do Sul HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-c6d7eb6408cc2546",
+    "names": [
+      "Globo Tapajós Santarém HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-19844bb3a1eb1bd4",
+    "names": [
+      "Globo Tapajós PA HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "Globo SP FHD",
+    "names": [
+      "Globo SP SD",
+      "Globo SP HD",
+      "GLOBO SP FHD"
+    ],
+    "source_id": "Globo SP FHD"
+  },
+  {
+    "id": "Globo TV Tem S.J. do Rio Preto FHD",
+    "names": [
+      "Globo SJ do Rio Preto SD",
+      "Globo SJ do Rio Preto HD"
+    ],
+    "source_id": "Globo TV Tem S.J. do Rio Preto FHD"
+  },
+  {
+    "id": "Globo RPC TV Ponta Grossa FHD",
+    "names": [
+      "Globo RPC Ponta Grossa SD",
+      "Globo RPC Ponta Grossa HD",
+      "Globo RPC Ponta Grossa FHD"
+    ],
+    "source_id": "Globo RPC TV Ponta Grossa FHD"
+  },
+  {
+    "id": "Globo RPC Maringa FHD",
+    "names": [
+      "Globo RPC Maringa HD",
+      "Globo RPC Maringa FHD"
+    ],
+    "source_id": "Globo RPC Maringa FHD"
+  },
+  {
+    "id": "Globo RPC Londrina FHD",
+    "names": [
+      "Globo RPC Londrina HD"
+    ],
+    "source_id": "Globo RPC Londrina FHD"
+  },
+  {
+    "id": "m3u-0fab54f708d95a7f",
+    "names": [
+      "Globo RPC Foz do Iguaçu FHD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "Globo RPC Curitiba FHD",
+    "names": [
+      "Globo RPC Curitiba SD",
+      "Globo RPC Curitiba HD",
+      "Globo RPC Curitiba FHD"
+    ],
+    "source_id": "Globo RPC Curitiba FHD"
+  },
+  {
+    "id": "Globo RPC Cascavel FHD",
+    "names": [
+      "Globo RPC Cascavel HD"
+    ],
+    "source_id": "Globo RPC Cascavel FHD"
+  },
+  {
+    "id": "Globo RJ FHD",
+    "names": [
+      "Globo RJ SD²",
+      "Globo RJ SD",
+      "Globo RJ Planície HD",
+      "Globo RJ Interior HD",
+      "Globo RJ HD",
+      "Globo RJ FHD"
+    ],
+    "source_id": "Globo RJ FHD"
+  },
+  {
+    "id": "Globo Inter TV Alto Litoral FHD",
+    "names": [
+      "Globo RJ Alto Litoral HD",
+      "Globo Inter TV dos Vales HD",
+      "Globo Inter TV dos Vales FHD",
+      "Globo Inter TV Alto Litoral FHD"
+    ],
+    "source_id": "Globo Inter TV Alto Litoral FHD"
+  },
+  {
+    "id": "m3u-d12e04ac60ec4097",
+    "names": [
+      "Globo RBS TV Uruguaiana HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "Globo RBS TV Santa Maria FHD",
+    "names": [
+      "Globo RBS TV Santa Rosa HD",
+      "Globo RBS TV Santa Maria HD"
+    ],
+    "source_id": "Globo RBS TV Santa Maria FHD"
+  },
+  {
+    "id": "Globo Rbs Tv Porto Alegre HD",
+    "names": [
+      "Globo RBS TV POA SD",
+      "Globo RBS TV POA HD",
+      "Globo RBS TV POA FHD",
+      "RECORD PORTO ALEGRE FHD",
+      "RECORD PORTO ALEGRE HD"
+    ],
+    "source_id": "Globo Rbs Tv Porto Alegre HD"
+  },
+  {
+    "id": "Globo RBS TV Passo Fundo FHD",
+    "names": [
+      "Globo RBS TV Pelotas FHD",
+      "Globo RBS Passo Fundo HD"
+    ],
+    "source_id": "Globo RBS TV Passo Fundo FHD"
+  },
+  {
+    "id": "m3u-f15020cdf805d703",
+    "names": [
+      "Globo RBS TV Erechim HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-e8cf4896975a8794",
+    "names": [
+      "Globo RBS TV Cruz Alta HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "Globo RBS TV Caxias do Sul FHD",
+    "names": [
+      "Globo RBS TV Caxias do Sul HD"
+    ],
+    "source_id": "Globo RBS TV Caxias do Sul FHD"
+  },
+  {
+    "id": "Globo TV Santa Cruz FHD",
+    "names": [
+      "Globo RBS Santa Cruz HD",
+      "Globo RBS Santa Cruz FHD",
+      "Globo Bahia Santa Cruz HD"
+    ],
+    "source_id": "Globo TV Santa Cruz FHD"
+  },
+  {
+    "id": "Globo NSC TV JoinVille FHD",
+    "names": [
+      "Globo NSC TV Joinville FHD"
+    ],
+    "source_id": "Globo NSC TV JoinVille FHD"
+  },
+  {
+    "id": "Globo NSC TV Criciuma FHD",
+    "names": [
+      "Globo NSC TV Criciuma FHD",
+      "Globo NSC TV Chapeco FHD"
+    ],
+    "source_id": "Globo NSC TV Criciuma FHD"
+  },
+  {
+    "id": "Globo NSC TV Blumenau FHD",
+    "names": [
+      "Globo NSC TV Blumenau HD",
+      "Globo NSC TV Blumenau FHD"
+    ],
+    "source_id": "Globo NSC TV Blumenau FHD"
+  },
+  {
+    "id": "Globo Nsc Tv Florianopolis HD",
+    "names": [
+      "Globo NSC Florianopolis SD",
+      "Globo NSC Florianopolis HD",
+      "Globo NSC Florianopolis FHD"
+    ],
+    "source_id": "Globo Nsc Tv Florianopolis HD"
+  },
+  {
+    "id": "Globo NSC TV Centro Oeste FHD",
+    "names": [
+      "Globo NSC Centro Oeste FHD"
+    ],
+    "source_id": "Globo NSC TV Centro Oeste FHD"
+  },
+  {
+    "id": "Globo 4k",
+    "names": [
+      "Globo NOW"
+    ],
+    "source_id": "Globo 4k"
+  },
+  {
+    "id": "Globo Nordeste FHD",
+    "names": [
+      "Globo Nordeste SD",
+      "Globo Nordeste HD",
+      "Globo Nordeste FHD"
+    ],
+    "source_id": "Globo Nordeste FHD"
+  },
+  {
+    "id": "m3u-05f2916204fe3a19",
+    "names": [
+      "Globo Nacional FHD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "Globo Minas FHD",
+    "names": [
+      "Globo Minas SD",
+      "Globo Minas HD",
+      "Globo Minas FHD"
+    ],
+    "source_id": "Globo Minas FHD"
+  },
+  {
+    "id": "m3u-be0d726df9238f98",
+    "names": [
+      "Globo INTERTV Gov Valadares HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "Globo Inter TV Cabugi FHD",
+    "names": [
+      "Globo INTERTV Costa Branca HD",
+      "Globo INTERTV Cel Fabriciano HD",
+      "Globo Inter PT HD",
+      "Globo Inter PT FHD",
+      "Globo Inter Cabugi HD",
+      "Globo Inter Cabugi FHD"
+    ],
+    "source_id": "Globo Inter TV Cabugi FHD"
+  },
+  {
+    "id": "Globo Inter TV Grande Minas FHD",
+    "names": [
+      "Globo Inter TV Grande Minas SD",
+      "Globo Inter TV Grande Minas HD",
+      "Globo Inter TV Grande Minas FHD"
+    ],
+    "source_id": "Globo Inter TV Grande Minas FHD"
+  },
+  {
+    "id": "Globo EPTV São Carlos FHD",
+    "names": [
+      "Globo EPTV São Carlos HD"
+    ],
+    "source_id": "Globo EPTV São Carlos FHD"
+  },
+  {
+    "id": "Globo EPTV Sul de Minas FHD",
+    "names": [
+      "Globo EPTV Sul de Minas HD"
+    ],
+    "source_id": "Globo EPTV Sul de Minas FHD"
+  },
+  {
+    "id": "Globo Eptv Ribeirão Preto FHD",
+    "names": [
+      "Globo EPTV Ribeirão Preto HD",
+      "RECORD RIBEIRÃO PRETO FHD",
+      "RECORD RIBEIRÃO PRETO HD"
+    ],
+    "source_id": "Globo Eptv Ribeirão Preto FHD"
+  },
+  {
+    "id": "Globo Eptv Campinas FHD",
+    "names": [
+      "Globo EPTV Campinas SD",
+      "Globo EPTV Campinas HD",
+      "Globo EPTV Campinas FHD"
+    ],
+    "source_id": "Globo Eptv Campinas FHD"
+  },
+  {
+    "id": "m3u-d55d443a640c933f",
+    "names": [
+      "Globo Divinópolis HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "Globo Centro America Cuiaba FHD",
+    "names": [
+      "Globo Centro America SD",
+      "Globo Centro America HD",
+      "Globo Centro America FHD"
+    ],
+    "source_id": "Globo Centro America Cuiaba FHD"
+  },
+  {
+    "id": "m3u-fd715f38d140d201",
+    "names": [
+      "Globo Cacoal HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-ca97f4486fa6f807",
+    "names": [
+      "Globo Boa Vista Roraima HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "Globo TV Rede Amazonica Rio Branco FHD",
+    "names": [
+      "Globo Amazônica Rio Branco HD"
+    ],
+    "source_id": "Globo TV Rede Amazonica Rio Branco FHD"
+  },
+  {
+    "id": "Globo TV Rede Amazonica Macapa FHD",
+    "names": [
+      "Globo Amazônica Macapá HD"
+    ],
+    "source_id": "Globo TV Rede Amazonica Macapa FHD"
+  },
+  {
+    "id": "m3u-3426ac4b6a1f5925",
+    "names": [
+      "Globo Amazônica Cruzeiro Acre HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "Globo TV Rede Amazonica Boa Vista FHD",
+    "names": [
+      "Globo Amazonica RO SD",
+      "Globo Amazonica RO HD",
+      "Globo Amazonica RO FHD"
+    ],
+    "source_id": "Globo TV Rede Amazonica Boa Vista FHD"
+  },
+  {
+    "id": "Globo TV Rede Amazonica Manaus FHD",
+    "names": [
+      "Globo Amazonica Manaus HD"
+    ],
+    "source_id": "Globo TV Rede Amazonica Manaus FHD"
+  },
+  {
+    "id": "Ae.br",
+    "names": [
+      "BR: A&E UHD"
+    ],
+    "source_id": "Ae.br"
+  },
+  {
+    "id": "Animalplanet.br",
+    "names": [
+      "BR: Animal Planet 4K"
+    ],
+    "source_id": "Animalplanet.br"
+  },
+  {
+    "id": "Axn.br",
+    "names": [
+      "BR: AXN 4K"
+    ],
+    "source_id": "Axn.br"
+  },
+  {
+    "id": "Band SP 4k",
+    "names": [
+      "BR: Band SP 4K",
+      "BR: Band SP UHD",
+      "BR: Band FHD",
+      "BR: Band HD",
+      "BR: Band SD",
+      "BR: Band SD²",
+      "BR: Band SJC HD",
+      "BR: Band SP FHD",
+      "BR: Band SP HD"
+    ],
+    "source_id": "Band SP 4k"
+  },
+  {
+    "id": "Bandsports.br",
+    "names": [
+      "BR: Band Sports UHD"
+    ],
+    "source_id": "Bandsports.br"
+  },
+  {
+    "id": "Cartoonnetwork.br",
+    "names": [
+      "BR: Cartoon Network 4K"
+    ],
+    "source_id": "Cartoonnetwork.br"
+  },
+  {
+    "id": "CNNBrasil.br",
+    "names": [
+      "BR: CNN Brasil 4K"
+    ],
+    "source_id": "CNNBrasil.br"
+  },
+  {
+    "id": "Combate.br",
+    "names": [
+      "BR: Combate 4K"
+    ],
+    "source_id": "Combate.br"
+  },
+  {
+    "id": "Discovery Channel 4K",
+    "names": [
+      "BR: Discovery Channel 4K",
+      "DISCOVERY CHANNEL FHD",
+      "DISCOVERY CHANNEL HD",
+      "DISCOVERY CHANNEL SD"
+    ],
+    "source_id": "Discovery Channel 4K"
+  },
+  {
+    "id": "8",
+    "names": [
+      "BR: Discovery H&H 4K",
+      "DISCOVERY H&H FHD",
+      "DISCOVERY H&H HD",
+      "DISCOVERY H&H SD"
+    ],
+    "source_id": "8"
+  },
+  {
+    "id": "Globobrasilia.br",
+    "names": [
+      "BR: Globo Brasília UHD",
+      "BR: SBT Brasilia FHD"
+    ],
+    "source_id": "Globobrasilia.br"
+  },
+  {
+    "id": "Globominas.br",
+    "names": [
+      "BR: Globo Minas UHD",
+      "BR: SBT Minas HD"
+    ],
+    "source_id": "Globominas.br"
+  },
+  {
+    "id": "Globonews.br",
+    "names": [
+      "BR: Globo News 4K"
+    ],
+    "source_id": "Globonews.br"
+  },
+  {
+    "id": "Globorj.br",
+    "names": [
+      "BR: Globo RBS TV UHD",
+      "BR: Globo RJ UHD"
+    ],
+    "source_id": "Globorj.br"
+  },
+  {
+    "id": "Globosp.br",
+    "names": [
+      "BR: Globo SP 4K",
+      "BR: Globo SP UHD"
+    ],
+    "source_id": "Globosp.br"
+  },
+  {
+    "id": "99",
+    "names": [
+      "BR: Globoplay Novelas 4K",
+      "GLOBOPLAY NOVELAS FHD",
+      "GLOBOPLAY NOVELAS HD",
+      "GLOBOPLAY NOVELAS SD"
+    ],
+    "source_id": "99"
+  },
+  {
+    "id": "GNT HD",
+    "names": [
+      "BR: GNT 4K",
+      "GNT FHD",
+      "GNT HD",
+      "GNT SD"
+    ],
+    "source_id": "GNT HD"
+  },
+  {
+    "id": "Hbo.br",
+    "names": [
+      "BR: HBO 4K"
+    ],
+    "source_id": "Hbo.br"
+  },
+  {
+    "id": "187",
+    "names": [
+      "BR: Jovem Pan News 4K",
+      "JOVEM PAN NEWS HD"
+    ],
+    "source_id": "187"
+  },
+  {
+    "id": "Megapix.br",
+    "names": [
+      "BR: Megapix 4K"
+    ],
+    "source_id": "Megapix.br"
+  },
+  {
+    "id": "Multishow.br",
+    "names": [
+      "BR: Multishow 4K"
+    ],
+    "source_id": "Multishow.br"
+  },
+  {
+    "id": "Premiere2.br",
+    "names": [
+      "BR: Premiere 2 UHD"
+    ],
+    "source_id": "Premiere2.br"
+  },
+  {
+    "id": "Premiereclubes.br",
+    "names": [
+      "BR: Premiere Clubes 4K"
+    ],
+    "source_id": "Premiereclubes.br"
+  },
+  {
+    "id": "Record SP FHD",
+    "names": [
+      "BR: Record SP UHD",
+      "RECORD SP HD"
+    ],
+    "source_id": "Record SP FHD"
+  },
+  {
+    "id": "Redetv.br",
+    "names": [
+      "BR: RedeTV! 4K"
+    ],
+    "source_id": "Redetv.br"
+  },
+  {
+    "id": "Sportv2.br",
+    "names": [
+      "BR: SporTV 2 UHD"
+    ],
+    "source_id": "Sportv2.br"
+  },
+  {
+    "id": "Sportv.br",
+    "names": [
+      "BR: SporTV UHD"
+    ],
+    "source_id": "Sportv.br"
+  },
+  {
+    "id": "Tcaction.br",
+    "names": [
+      "BR: TC Action 4K"
+    ],
+    "source_id": "Tcaction.br"
+  },
+  {
+    "id": "Tcpipoca.br",
+    "names": [
+      "BR: TC Pipoca 4K"
+    ],
+    "source_id": "Tcpipoca.br"
+  },
+  {
+    "id": "Tcpremium.br",
+    "names": [
+      "TC Premium 4K"
+    ],
+    "source_id": "Tcpremium.br"
+  },
+  {
+    "id": "Tnt.br",
+    "names": [
+      "BR: TNT 4K"
+    ],
+    "source_id": "Tnt.br"
+  },
+  {
+    "id": "TNT Series 4K",
+    "names": [
+      "BR: TNT Series 4K",
+      "TNT SERIES HD",
+      "TNT SERIES SD"
+    ],
+    "source_id": "TNT Series 4K"
+  },
+  {
+    "id": "102",
+    "names": [
+      "BR: Universal 4K",
+      "UNIVERSAL TV HD",
+      "UNIVERSAL TV SD"
+    ],
+    "source_id": "102"
+  },
+  {
+    "id": "0",
+    "names": [
+      "BR: SBT Allamanda RO HD",
+      "BR: SBT Aratu BA HD",
+      "BR: SBT Brasilia DF HD",
+      "BR: SBT Cidade Verde PI HD",
+      "BR: SBT Guajará PA FHD",
+      "BR: SBT Interior SP HD",
+      "BR: SBT Jangadeiro CE FHD",
+      "BR: SBT Londrina HD",
+      "BR: SBT Maringá HD",
+      "BR: SBT Nacional FHD",
+      "BR: SBT Naipi Foz do Iguaçu HD",
+      "BR: SBT Noroeste MT HD",
+      "BR: SBT Piauí HD",
+      "BR: SBT Ponta Verde AL HD",
+      "BR: SBT TAMBAU PB HD",
+      "BR: SBT TH+ Vale SJC HD",
+      "BR: SBT Tribuna ES HD",
+      "BR: SBT TV Jornal PE HD",
+      "BR: SBT TV SIM ES HD",
+      "BR: SBT VTV Campinas HD",
+      "Amazon Prime Video 01",
+      "Amazon Prime Video 02",
+      "Amazon Prime Video 03",
+      "Amazon Prime Video 04",
+      "Amazon Prime Video 05",
+      "Disney+ 01",
+      "Disney+ 02",
+      "Disney+ 03",
+      "Disney+ 04",
+      "Disney+ 05",
+      "GOAT TV 01",
+      "GOAT TV 02",
+      "GOAT TV 03",
+      "GOAT TV 04",
+      "GOAT TV 05",
+      "Cazé TV 01",
+      "Cazé TV 02",
+      "Cazé TV 03",
+      "Cazé TV 04",
+      "Cazé TV 05",
+      "RECORD RIO DE JANEIRO FHD",
+      "RECORD RIO DE JANEIRO HD",
+      "BR: Band Alagoas HD",
+      "BR: Band Bahia HD",
+      "BR: Band Barriga Verde SC HD",
+      "BR: Band Brasilia HD",
+      "BR: Band Campinas HD",
+      "BR: Band Ceará HD",
+      "BR: Band Goiânia HD",
+      "BR: Band Minas MG HD",
+      "BR: Band Nordeste FHD",
+      "BR: Band Nordeste HD",
+      "BR: Band Paulista HD",
+      "BR: Band PR FHD",
+      "BR: Band RBATV PA HD",
+      "BR: Band RJ FHD",
+      "BR: Band RJ HD",
+      "BR: Band RN HD",
+      "BR: Band RS FHD",
+      "BR: Band Tribuna Recife HD",
+      "RETRO CHANEL",
+      "24H • DOIS HOMENS E MEIO #1 (2003)",
+      "24H  DOIS HOMENS E MEIO (2003)",
+      "24H • EU A PATROA E AS CRIANÇAS 24H",
+      "24H • HE-MAN E OS MESTRES DO UNIVERSO",
+      "24H • MONGO E DRONGO (2004)",
+      "24H â€¢ PICA PAU CLÃSSICO",
+      "24H • SUPER CHOQUE (2000)",
+      "C9N",
+      "Latele",
+      "Noticias PY",
+      "Paravisión",
+      "SNT",
+      "Sur TV",
+      "Telefuturo",
+      "Unicanal",
+      "ABC TV",
+      "Paraguay TV",
+      "Trece - Paraguay",
+      "Tigo Sports PY",
+      "Tigo Sports 2 PY (Solo Eventos)",
+      "IVC",
+      "Telesur HD",
+      "Televen",
+      "Venevision",
+      "ATB",
+      "TVU",
+      "Unitel",
+      "ATB | BO",
+      "America  TV",
+      "America  TV HD",
+      "ATV",
+      "ATV op.2",
+      "ATV Sur",
+      "ATV+",
+      "BHTV",
+      "Canal iPe",
+      "Frecuencia Latina",
+      "Frecuencia Latina HD",
+      "Peru Magico",
+      "Ovación",
+      "Panamericana",
+      "Panamericana HD",
+      "Willax",
+      "ATV | PE",
+      "RPP",
+      "A+V",
+      "Canal 4 Monte Carlo",
+      "TV Ciudad",
+      "Canal 12 (op.1)",
+      "VTV",
+      "VTV HD (op.2)",
+      "VTV Plus",
+      "VTV Plus HD",
+      "CNT HD",
+      "CANAL AGRO",
+      "BBC SD",
+      "BLOOMBERG HD",
+      "BM&C NEWS HD",
+      "CNBC HD",
+      "CNN MONEY HD",
+      "REDE MAIS FAMILIA",
+      "REDE FAMILIA",
+      "XXX • XY MAX TV HD"
+    ],
+    "source_id": "0"
+  },
+  {
+    "id": "SBT HD [Alter]",
+    "names": [
+      "BR: SBT Alterosa MG FHD",
+      "BR: SBT Alterosa MG HD",
+      "SBT Alterosa SD"
+    ],
+    "source_id": "SBT HD [Alter]"
+  },
+  {
+    "id": "m3u-d8a098c9e51e75ca",
+    "names": [
+      "BR: SBT Campo Grande MS HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "Sbt.br",
+    "names": [
+      "BR: SBT GO HD",
+      "BR: SBT HD",
+      "BR: SBT MA HD",
+      "BR: SBT PA HD",
+      "BR: SBT PE HD",
+      "BR: SBT PR HD",
+      "BR: SBT RJ FHD",
+      "BR: SBT RJ HD",
+      "BR: SBT RN HD",
+      "BR: SBT RS HD",
+      "BR: SBT SC HD",
+      "BR: SBT SD",
+      "BR: SBT SP FHD",
+      "BR: SBT SP HD",
+      "BR: SBT TO HD"
+    ],
+    "source_id": "Sbt.br"
+  },
+  {
+    "id": "Cnninternacional.br",
+    "names": [
+      "BR: SBT Internacional"
+    ],
+    "source_id": "Cnninternacional.br"
+  },
+  {
+    "id": "m3u-69f4ee5256f0c7b5",
+    "names": [
+      "BR: SBT+ KIDS"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "299",
+    "names": [
+      "BR: SBT+ Novelas",
+      "TNT NOVELAS HD",
+      "TNT NOVELAS SD"
+    ],
+    "source_id": "299"
+  },
+  {
+    "id": "m3u-04ecc5795d46fd17",
+    "names": [
+      "BR: SBT+ Raiz"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "Telecine Action HD",
+    "names": [
+      "Telecine Action FHD",
+      "Telecine Action HD",
+      "Telecine Action SD"
+    ],
+    "source_id": "Telecine Action HD"
+  },
+  {
+    "id": "Telecine Cult HD",
+    "names": [
+      "Telecine Cult FHD",
+      "Telecine Cult HD",
+      "Telecine Cult SD"
+    ],
+    "source_id": "Telecine Cult HD"
+  },
+  {
+    "id": "Telecine Fun HD",
+    "names": [
+      "Telecine Fun FHD",
+      "Telecine Fun HD",
+      "Telecine Fun SD"
+    ],
+    "source_id": "Telecine Fun HD"
+  },
+  {
+    "id": "Telecine Pipoca HD",
+    "names": [
+      "Telecine Pipoca FHD",
+      "Telecine Pipoca HD",
+      "Telecine Pipoca SD"
+    ],
+    "source_id": "Telecine Pipoca HD"
+  },
+  {
+    "id": "Telecine Premium HD",
+    "names": [
+      "Telecine Premium FHD",
+      "Telecine Premium HD",
+      "Telecine Premium SD"
+    ],
+    "source_id": "Telecine Premium HD"
+  },
+  {
+    "id": "Telecine Touch HD",
+    "names": [
+      "Telecine Touch FHD",
+      "Telecine Touch HD",
+      "Telecine Touch SD"
+    ],
+    "source_id": "Telecine Touch HD"
+  },
+  {
+    "id": "Band Sports HD",
+    "names": [
+      "Band Sports FHD",
+      "Band Sports HD",
+      "Band Sports SD"
+    ],
+    "source_id": "Band Sports HD"
+  },
+  {
+    "id": "ESPN 2 HD",
+    "names": [
+      "ESPN 2 FHD",
+      "ESPN 2 HD",
+      "ESPN 2 SD"
+    ],
+    "source_id": "ESPN 2 HD"
+  },
+  {
+    "id": "ESPN 3 HD",
+    "names": [
+      "ESPN 3 FHD",
+      "ESPN 3 HD",
+      "ESPN 3 SD"
+    ],
+    "source_id": "ESPN 3 HD"
+  },
+  {
+    "id": "ESPN 4 4K",
+    "names": [
+      "ESPN 4 FHD",
+      "ESPN 4 HD",
+      "ESPN 4 SD"
+    ],
+    "source_id": "ESPN 4 4K"
+  },
+  {
+    "id": "ESPN 4k",
+    "names": [
+      "ESPN 5 FHD",
+      "ESPN 5 HD",
+      "ESPN 5 SD",
+      "ESPN FHD",
+      "ESPN HD",
+      "ESPN SD"
+    ],
+    "source_id": "ESPN 4k"
+  },
+  {
+    "id": "50",
+    "names": [
+      "ESPN 6 FHD",
+      "ESPN 6 HD",
+      "ESPN 6 SD"
+    ],
+    "source_id": "50"
+  },
+  {
+    "id": "40",
+    "names": [
+      "Fish TV FHD",
+      "Fish TV HD",
+      "Fish TV SD",
+      "FISH TV FHD",
+      "FISH TV HD",
+      "FISH TV SD"
+    ],
+    "source_id": "40"
+  },
+  {
+    "id": "466",
+    "names": [
+      "GE tv FHD",
+      "GE tv HD",
+      "GE tv SD"
+    ],
+    "source_id": "466"
+  },
+  {
+    "id": "439",
+    "names": [
+      "X SPORTS FHD",
+      "X SPORTS HD",
+      "X SPORTS SD"
+    ],
+    "source_id": "439"
+  },
+  {
+    "id": "HBO Max 5",
+    "names": [
+      "HBO MAX 01",
+      "HBO MAX 02",
+      "HBO MAX 03",
+      "HBO MAX 04",
+      "HBO MAX 05"
+    ],
+    "source_id": "HBO Max 5"
+  },
+  {
+    "id": "Paramount FHD",
+    "names": [
+      "Paramount+ 01",
+      "Paramount+ 02",
+      "Paramount+ 03",
+      "Paramount+ 04",
+      "Paramount+ 05"
+    ],
+    "source_id": "Paramount FHD"
+  },
+  {
+    "id": "296",
+    "names": [
+      "SportyNet 01",
+      "SportyNet 04",
+      "SportyNet 05"
+    ],
+    "source_id": "296"
+  },
+  {
+    "id": "297",
+    "names": [
+      "SportyNet 02"
+    ],
+    "source_id": "297"
+  },
+  {
+    "id": "298",
+    "names": [
+      "SportyNet 03"
+    ],
+    "source_id": "298"
+  },
+  {
+    "id": "SporTV 4K",
+    "names": [
+      "Sportv 1 FHD",
+      "Sportv 1 HD",
+      "Sportv 1 SD",
+      "Sportv 4 FHD",
+      "Sportv 4 HD"
+    ],
+    "source_id": "SporTV 4K"
+  },
+  {
+    "id": "SporTV 2 HD",
+    "names": [
+      "Sportv 2 FHD",
+      "Sportv 2 HD",
+      "Sportv 2 SD"
+    ],
+    "source_id": "SporTV 2 HD"
+  },
+  {
+    "id": "SporTV 3 HD",
+    "names": [
+      "Sportv 3 FHD",
+      "Sportv 3 HD",
+      "Sportv 3 SD"
+    ],
+    "source_id": "SporTV 3 HD"
+  },
+  {
+    "id": "m3u-a6c772ed50f15a3a",
+    "names": [
+      "A Patroa E AS Crianças (2001) HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "Combate 4K",
+    "names": [
+      "Combate FHD",
+      "Combate HD",
+      "Combate SD"
+    ],
+    "source_id": "Combate 4K"
+  },
+  {
+    "id": "329",
+    "names": [
+      "Nsports FHD"
+    ],
+    "source_id": "329"
+  },
+  {
+    "id": "186",
+    "names": [
+      "RECORD SÃO PAULO FHD",
+      "RECORD SÃO PAULO HD"
+    ],
+    "source_id": "186"
+  },
+  {
+    "id": "Record BA HD",
+    "names": [
+      "RECORD BAHIA FHD",
+      "RECORD BAHIA HD",
+      "RECORD BELÉM FHD",
+      "RECORD BELÉM HD",
+      "RECORD BRASÍLIA FHD",
+      "RECORD BRASÍLIA HD",
+      "RECORD BAURU FHD",
+      "RECORD BAURU HD"
+    ],
+    "source_id": "Record BA HD"
+  },
+  {
+    "id": "Record 4K",
+    "names": [
+      "RECORD GOIÁS FHD",
+      "RECORD GOIÁS HD",
+      "RECORD PARANÁ FHD",
+      "RECORD PARANÁ HD"
+    ],
+    "source_id": "Record 4K"
+  },
+  {
+    "id": "Record MG SD",
+    "names": [
+      "RECORD MANAUS FHD",
+      "RECORD MANAUS HD",
+      "RECORD MINAS FHD",
+      "RECORD MINAS HD",
+      "RECORD MINAS"
+    ],
+    "source_id": "Record MG SD"
+  },
+  {
+    "id": "m3u-d68761e53c8d0357",
+    "names": [
+      "RECORD BAHIA ITABUNA FHD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-560911fe6113caf4",
+    "names": [
+      "RECORD BAHIA ITABUNA HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-b7df846e93126fef",
+    "names": [
+      "RECORD SANTOS E VALE FHD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-41a426bd2787ab0a",
+    "names": [
+      "RECORD SANTOS E VALE HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "Record RJ HD",
+    "names": [
+      "RECORD RIO PRETO FHD",
+      "RECORD RIO PRETO HD",
+      "RECORD RECIFE FHD",
+      "RECORD RECIFE HD",
+      "RECORD RIO"
+    ],
+    "source_id": "Record RJ HD"
+  },
+  {
+    "id": "m3u-7251d5288ba3252e",
+    "names": [
+      "RECORD CAMPOS DOS GOYTACAZES FHD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-f8d114f968127cb0",
+    "names": [
+      "RECORD CAMPOS DOS GOYTACAZES HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-3cd060f17e557072",
+    "names": [
+      "RECORD FLORIANÓPOLIS FHD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-c3a16a9e7c1ce236",
+    "names": [
+      "RECORD FLORIANÓPOLIS HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-17b6ce3df65a99d7",
+    "names": [
+      "RECORD VITÓRIA FHD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-2ea0df732c02f02d",
+    "names": [
+      "RECORD VITÓRIA HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-01a7bd4f5eeaddaf",
+    "names": [
+      "RECORD CAMPINAS FHD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-a9fcdcf12c8b142e",
+    "names": [
+      "RECORD CAMPINAS HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-02a6317c6047ecc1",
+    "names": [
+      "RECORD FORTALEZA FHD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-4115091cb17fc91c",
+    "names": [
+      "RECORD FORTALEZA HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-36a36d07f598d005",
+    "names": [
+      "RECEITAS FAST HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-a6c22daff135466c",
+    "names": [
+      "MALHAÇÃO FAST HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-dd99e04f57594b99",
+    "names": [
+      "D.P.A. FAST HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-06903a195edb26a6",
+    "names": [
+      "BR: Band TO HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-23a5c2768edf3334",
+    "names": [
+      "BR: Band TV Capixaba ES HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "Premiere Clubes 4K",
+    "names": [
+      "PREMIERE CLUBES FHD",
+      "PREMIERE CLUBES HD",
+      "PREMIERE CLUBES SD"
+    ],
+    "source_id": "Premiere Clubes 4K"
+  },
+  {
+    "id": "Premiere 2 HD",
+    "names": [
+      "PREMIERE 2 FHD",
+      "PREMIERE 2 HD",
+      "PREMIERE 2 SD"
+    ],
+    "source_id": "Premiere 2 HD"
+  },
+  {
+    "id": "Premiere 3 HD",
+    "names": [
+      "PREMIERE 3 FHD",
+      "PREMIERE 3 HD",
+      "PREMIERE 3 SD"
+    ],
+    "source_id": "Premiere 3 HD"
+  },
+  {
+    "id": "Premiere 4 HD",
+    "names": [
+      "PREMIERE 4 FHD",
+      "PREMIERE 4 HD",
+      "PREMIERE 4 SD"
+    ],
+    "source_id": "Premiere 4 HD"
+  },
+  {
+    "id": "Premiere 5 HD",
+    "names": [
+      "PREMIERE 5 FHD",
+      "PREMIERE 5 HD",
+      "PREMIERE 5 SD"
+    ],
+    "source_id": "Premiere 5 HD"
+  },
+  {
+    "id": "Premiere 6 HD",
+    "names": [
+      "PREMIERE 6 FHD",
+      "PREMIERE 6 HD",
+      "PREMIERE 6 SD"
+    ],
+    "source_id": "Premiere 6 HD"
+  },
+  {
+    "id": "Premiere 7 SD",
+    "names": [
+      "PREMIERE 7 FHD",
+      "PREMIERE 7 HD",
+      "PREMIERE 7 SD"
+    ],
+    "source_id": "Premiere 7 SD"
+  },
+  {
+    "id": "107",
+    "names": [
+      "PREMIERE 8 FHD",
+      "PREMIERE 8 HD",
+      "PREMIERE 8 SD"
+    ],
+    "source_id": "107"
+  },
+  {
+    "id": "m3u-5dc0f6285f0e1519",
+    "names": [
+      "CCX MIDIA"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-4aa57950dc75eec9",
+    "names": [
+      "DCN"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-4fccd79d5bfedbdd",
+    "names": [
+      "DC COUNCIL"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-968f73a4cb7a3f4e",
+    "names": [
+      "CFN CATHOLIC FAITH NETWORK (720P)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-1e30b918aced1924",
+    "names": [
+      "POWWER NATION"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-cce8f4a09eba31a6",
+    "names": [
+      "BRONX NEXT"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-3ba621b5979c908e",
+    "names": [
+      "23 ABC BAKERSFIELD CA (KERO) (720P)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-4e89c798fa91013d",
+    "names": [
+      "CERRITOS TV3 (360P)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-616378794e9e478f",
+    "names": [
+      "ION PLUS"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-e586978819695226",
+    "names": [
+      "CFM TV CHANNEL 98 (360P)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-edd4b4cfa80401b9",
+    "names": [
+      "TALKIN LIVE CLASSICS TV (480P)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-355c26501c845406",
+    "names": [
+      "INVESTIGA"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-4d248398adf7c046",
+    "names": [
+      "NICK PLUTO TV"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "Nickelodeon FHD",
+    "names": [
+      "NICKELODEON",
+      "NICKELODEON EN ESPAÑOL"
+    ],
+    "source_id": "Nickelodeon FHD"
+  },
+  {
+    "id": "m3u-cb8fddad1cbdea6b",
+    "names": [
+      "NICKTOONS"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-054c89a39453e423",
+    "names": [
+      "C MALAYALAM TV (1080P)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-91e96ad94db080b5",
+    "names": [
+      "EET TV (1080P) [NOT 24/7]"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-cbce35a9965f6925",
+    "names": [
+      "FEVA TV (1080P)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-0236cda4030579b3",
+    "names": [
+      "AZ STAR TV (1080P)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-b3d786f424a10276",
+    "names": [
+      "STINGRAY CLASSIC ROCK (1080P)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-837bd27d68242dbc",
+    "names": [
+      "STINGRAY CLASSICA (1080P)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-ab618d9f55fb544d",
+    "names": [
+      "STINGRAY CMUSIC (1080P)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-715f93ccb841267a",
+    "names": [
+      "STINGRAY DJAZZ (1080P)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-714360af6247edb8",
+    "names": [
+      "STINGRAY EASY LISTENING (1080P)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-b1e845e313d29852",
+    "names": [
+      "STINGRAY FLASHBACK 70S (1080P)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-747c95900e9bc300",
+    "names": [
+      "STINGRAY HIT LIST (1080P)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-b2b570d0068a544a",
+    "names": [
+      "STINGRAY HOLIDAY HITS (1080P)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-0148f95507b7e3c6",
+    "names": [
+      "STINGRAY HOT COUNTRY (1080P)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-ca9bb273b25aa8c4",
+    "names": [
+      "STINGRAY KARAOKE (1080P)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-60c9fd09d727fc69",
+    "names": [
+      "STINGRAY NATURESCAPE (1080P)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-5b9e01cce0ab63bc",
+    "names": [
+      "STINGRAY NOTHIN' BUT 90S (1080P)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-3af9bd72ce58b8d4",
+    "names": [
+      "STINGRAY POP ADULT (1080P)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-caa9ee30e15beabe",
+    "names": [
+      "STINGRAY REMEMBER THE 80S (1080P)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-a8785ba0695e9b30",
+    "names": [
+      "STINGRAY ROCK ALTERNATIVE (1080P)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-5c15e827b3b973f9",
+    "names": [
+      "STINGRAY ROMANCE LATINO (1080P)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-2652eef7624b3196",
+    "names": [
+      "STINGRAY SMOOTH JAZZ (1080P)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-081b7fc2b38c4056",
+    "names": [
+      "STINGRAY SOUL STORM (1080P)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-7e8dd1e5dfb5d141",
+    "names": [
+      "STINGRAY THE SPA (1080P)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-f3441390dbe5f09e",
+    "names": [
+      "STINGRAY TODAY'S KPOP (1080P)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-75aa11e30de464fa",
+    "names": [
+      "STINGRAY TODAY'S LATIN POP (1080P)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-2c7ef2220f88afa5",
+    "names": [
+      "STINGRAY URBAN BEAT (1080P)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-dcb3381ce0e87c21",
+    "names": [
+      "HAMDARD TV (1080P)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-e7894690a5c5c8e3",
+    "names": [
+      "PRIME ASIA TV (1080P)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-65c29533a56c64d6",
+    "names": [
+      "WILD TV (1080P)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-e01ec164e8c123c8",
+    "names": [
+      "AIRE DE SANTA FE (1080P)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-7751e744f770c0d4",
+    "names": [
+      "CANAL 7 NEUQUÉN (1080P)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-c4e00b301c00f4f2",
+    "names": [
+      "CIUDAD MAGAZINE (1080P) [GEO-BLOCKED]"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-fec16615d5edcd59",
+    "names": [
+      "CANAL 26 (1080P)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-c285769f0534ada9",
+    "names": [
+      "CANAL 2 MISIONES (1080P)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-55ea50dc2100d42f",
+    "names": [
+      "CANAL 3 LA PAMPA (1080P)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-ccdb26f0b6db4bff",
+    "names": [
+      "CANAL 6 POSADAS (1080P)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-f09b8eb6200c49e5",
+    "names": [
+      "CANAL 7 SALTA (1080P)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-f787c2d355acb897",
+    "names": [
+      "SARDARI TV (1080P) [NOT 24/7]"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-6b6e3ba4530c696d",
+    "names": [
+      "FUEL TV (1080P)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-a5d96e4b6a97b57b",
+    "names": [
+      "KURIAKOS CINE (1080P)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-2853144804a57172",
+    "names": [
+      "KURIAKOS KIDS (1080P)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-c511a11acb45e8ef",
+    "names": [
+      "KURIAKOS MUSIC (1080P)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-133174ffa6f4d130",
+    "names": [
+      "MANÁ CHURCH ONLINE (1080P) [NOT 24/7]"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-f8ecb2f3d75fe5df",
+    "names": [
+      "MANÃ Ã‰GLISE ONLINE (1080P) [NOT 24/7]"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-0545a3015395d027",
+    "names": [
+      "MANÁ IGLESIA ONLINE (1080P) [NOT 24/7]"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-a20a925d858ca639",
+    "names": [
+      "MANÁ IGREJA ONLINE (1080P) [NOT 24/7]"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-c6ecd2b34b0bf41d",
+    "names": [
+      "MANÁ TSERKOV' ONLAYN (1080P) [NOT 24/7]"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-ce415a284ffa2211",
+    "names": [
+      "TV MANÁ 1 (1080P)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-864d9e381038aa52",
+    "names": [
+      "TV MANÁ 2 (1080P)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "TV Brasil HD",
+    "names": [
+      "TV MANÁ BRASIL (1080P)"
+    ],
+    "source_id": "TV Brasil HD"
+  },
+  {
+    "id": "m3u-2bad678a99db9714",
+    "names": [
+      "TV MANÁ ENGLISH (1080P)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-ba2dfc01e3874be1",
+    "names": [
+      "TV MANÃ ESPAÃ‘OL (1080P)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-77b486d19d3506cd",
+    "names": [
+      "SERIE - CHICAGO-FIRE - 24H"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "Chaves 24H",
+    "names": [
+      "SERIE - CHAVES 01 - 24H",
+      "SERIE - CHAVES 04 - 24H",
+      "24H • CHAVES (1973)",
+      "CHAVES 24 HORAS 5",
+      "CHAVES 24 HORAS 6",
+      "CHAVES"
+    ],
+    "source_id": "Chaves 24H"
+  },
+  {
+    "id": "Chapolin 24H",
+    "names": [
+      "SERIE - CHAPOLIN 03 - 24H",
+      "24H • CHAPOLIN COLORADO (1973)"
+    ],
+    "source_id": "Chapolin 24H"
+  },
+  {
+    "id": "m3u-67a469e681efcb99",
+    "names": [
+      "SERIE - AS VISSÕES DA RAVEM - 24H"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-b3221114d2c095ad",
+    "names": [
+      "SERIE - EU A PATROA E AS CRIANÇAS - 24H"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-910fbe60120aa32d",
+    "names": [
+      "SERIE - TODO MUNDO ODEIA O CRIS 01 - 24H"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-8034b485b05d5aed",
+    "names": [
+      "24H OS FEITICEIROS DE WEVERLY PLACE"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-8ccc1ebebe8af251",
+    "names": [
+      "24H AS VISÕES DA RAVEN (2003)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-1b9ce07625b2ce8f",
+    "names": [
+      "24H F-B-I"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-4cbc322a7212fdb1",
+    "names": [
+      "24H FROM"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-2bbf15c94daf1057",
+    "names": [
+      "24H • CHESPIRITO (1973)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "Friends 24H",
+    "names": [
+      "24H • FRIENDS (1994)",
+      "FRIENDS"
+    ],
+    "source_id": "Friends 24H"
+  },
+  {
+    "id": "m3u-26cb6d3e503e1656",
+    "names": [
+      "24H A ORDEM"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "South Parks 24H",
+    "names": [
+      "24H • SOUTH PARK (1997)",
+      "DESENHO-SOUTH PARK-24H",
+      "SOUTH PARK"
+    ],
+    "source_id": "South Parks 24H"
+  },
+  {
+    "id": "m3u-4a59d7c6108dca03",
+    "names": [
+      "24H • SMALLVILLE SEASON 24H"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-a0edb302df09a2f8",
+    "names": [
+      "24H STRANGER THINGS"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-c80d6035c640b262",
+    "names": [
+      "24H SIREN"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-3ab629bce7189478",
+    "names": [
+      "24H GAME OF THRONES 24H"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-8da3a7a823f7c0f2",
+    "names": [
+      "24H • VIKINGS"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-acb1589ec3436f4e",
+    "names": [
+      "OTAKU SIGN"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-535bf054fa4b12c7",
+    "names": [
+      "TV LOADING"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-98cfc33d13029101",
+    "names": [
+      "ANIME TV"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-93f6ffb3cfb2c81a",
+    "names": [
+      "ANIMESTATION"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-31dc735fedcadd0c",
+    "names": [
+      "TV ARACATI HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-f23f4f0e22d6c2bc",
+    "names": [
+      "LUCAS TV"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-4bfc5fc5aac30838",
+    "names": [
+      "ANIMAX"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-320217b1771945c0",
+    "names": [
+      "TV ADORANDO JESUS"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "Tom e Jerry 24H",
+    "names": [
+      "DESENHO - TOM E JERRY - 24H"
+    ],
+    "source_id": "Tom e Jerry 24H"
+  },
+  {
+    "id": "He-man 24H",
+    "names": [
+      "DESENHO - HE-MAN - 24H"
+    ],
+    "source_id": "He-man 24H"
+  },
+  {
+    "id": "m3u-a83d970597c39bde",
+    "names": [
+      "DESENHO - URSINHO PUFF - 24H"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-381ca6e514f789ba",
+    "names": [
+      "DESENHO - GARFILD - 24H"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-199e307a7af9ea44",
+    "names": [
+      "DESENHO - AVATAR LENDA DE ANG - 24H"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-3028d44e3bbc9536",
+    "names": [
+      "DESENHO-RICK AND MORY -24H"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-49520226c35cd6bc",
+    "names": [
+      "DESENHO-MEGA MAN-24H"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-d10641c52e7ccbb7",
+    "names": [
+      "DESENHO-X-MAN EVOLUTION-24H"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "Liga da Justiça 24H",
+    "names": [
+      "LIGA DA JUSTIÇA"
+    ],
+    "source_id": "Liga da Justiça 24H"
+  },
+  {
+    "id": "Jovens Titans 24H",
+    "names": [
+      "JOVENS TITANS",
+      "24H â€¢ OS JOVENS TITÃƒS (2003)"
+    ],
+    "source_id": "Jovens Titans 24H"
+  },
+  {
+    "id": "m3u-0cc449806bfbaa59",
+    "names": [
+      "24H â€¢ TIMÃƒO & PUMBA"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "Thundercats 24H",
+    "names": [
+      "24H • THUNDERCATS"
+    ],
+    "source_id": "Thundercats 24H"
+  },
+  {
+    "id": "Luluzinha 24H",
+    "names": [
+      "24H • LULUZINHA"
+    ],
+    "source_id": "Luluzinha 24H"
+  },
+  {
+    "id": "m3u-a1d563a18539034e",
+    "names": [
+      "24H • AVATAR A LENDA DE AANG (2005)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "Familia Dinossauro 24H",
+    "names": [
+      "24H • FAMILIA DINOSSAUROS (1991)"
+    ],
+    "source_id": "Familia Dinossauro 24H"
+  },
+  {
+    "id": "m3u-a1a1389bccfd6e6a",
+    "names": [
+      "24H • X MEN (1992)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "Bob Esponja 24H",
+    "names": [
+      "24H • BOB ESPONJA"
+    ],
+    "source_id": "Bob Esponja 24H"
+  },
+  {
+    "id": "Futura HD",
+    "names": [
+      "24H • FUTURAMA",
+      "FUTURA HD",
+      "FUTURA FHD",
+      "FUTURA SD"
+    ],
+    "source_id": "Futura HD"
+  },
+  {
+    "id": "Peppa Pig 24H",
+    "names": [
+      "24H • PEPPA PIG"
+    ],
+    "source_id": "Peppa Pig 24H"
+  },
+  {
+    "id": "m3u-faf91573400b21d8",
+    "names": [
+      "ANIME - NARUTO SHIPUDEM 01 - 24H"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-4c7cf070a80300e8",
+    "names": [
+      "ANIME- CASTLE VANIA -24H"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-c192f42f75301f1e",
+    "names": [
+      "24H • 18 OUTRA VEZ"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-0ad1d3e204d1a144",
+    "names": [
+      "24H • ADAMAS O DIAMANTE ASSASSINO"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-c50456a50fb6ade4",
+    "names": [
+      "24H  ALQUIMIA DAS ALMAS"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-abfc4efe78f3e65d",
+    "names": [
+      "24H  ALEM DO GUARDA ROUPA"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-6fb6d8cb99dfb850",
+    "names": [
+      "24H â€¢ AS TRÃŠS IRMÃƒS"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-e40c6123ad4dd80b",
+    "names": [
+      "24H • DESCENDENTES DO SOL"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-a54c9bd61efa9d7b",
+    "names": [
+      "24H â€¢ DIVA Ã DERIVA"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-03e937fbf3573357",
+    "names": [
+      "24H • DIVORCIADOS"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-58b7a39ba4fa7a4e",
+    "names": [
+      "24H • DRA CHA"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-31e1e2b1c23a45de",
+    "names": [
+      "24H • FINALMENTE ADULTOS"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-ffa36f641010b7a1",
+    "names": [
+      "24H • JARDIM DE METEOROS"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-476868bb6c172016",
+    "names": [
+      "24H • MEU AMOR DAS ESTRELAS"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-25e50244033e915f",
+    "names": [
+      "24H â€¢ NA DIREÃ‡ÃƒO DO AMOR"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-771a2cc2f639e2e9",
+    "names": [
+      "24H â€¢ NOSSO ETERNO VERÃƒO"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-9b3b25b4077981cc",
+    "names": [
+      "24H • PACHINKO"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-d52bd9f24e381597",
+    "names": [
+      "24H • PASSARELA DE SONHOS"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-1e42e0989e3f05de",
+    "names": [
+      "24H • POUSANDO NO AMOR"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-5c62f4c227212945",
+    "names": [
+      "24H • PRETENDENTE SURPRESA"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-ddb85b0ced802b5a",
+    "names": [
+      "24H QUEREMOS O DIVORCIO"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-b628212bacc193d9",
+    "names": [
+      "24H RAINHA DAS LÃGRIMAS"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-2e40398ac6d5cf2b",
+    "names": [
+      "24H â€¢ UMA ADVOGADA EXTRAORDINÃRIA"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-85c90bb874ac3469",
+    "names": [
+      "GEN TV"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-3931108bf8afb564",
+    "names": [
+      "RCC TV"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-387ab2ecfaad6e22",
+    "names": [
+      "Somos del Este"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-0132f183af7a6632",
+    "names": [
+      "Mega TV"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-c034e12fb618544e",
+    "names": [
+      "Farra Play"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-a4aeb37d1f74fb6b",
+    "names": [
+      "Caritas TV"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-af7efed8010e7d04",
+    "names": [
+      "MiTV"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-4de50bbb270d9ca8",
+    "names": [
+      "Union TV"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-ed63e7c20a53dfe6",
+    "names": [
+      "Cosmos TV - PY"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-324bb12af8c34682",
+    "names": [
+      "Canal 8 Visión TV"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-7662cb8188bc0e90",
+    "names": [
+      "Canal Pro"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-bf5d6895df9be3e4",
+    "names": [
+      "Del Rey"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-74e2b74d16f576c9",
+    "names": [
+      "E40"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-f5d8bbc20b5c3818",
+    "names": [
+      "Go TV"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-e549108cd9e57f20",
+    "names": [
+      "Hei Now"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-c7f925c1e373cd76",
+    "names": [
+      "Monumental TV"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-7991a45075fcdf36",
+    "names": [
+      "Nandejara Ne'e TV"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-242a45ea2b8b7645",
+    "names": [
+      "República TV"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-e6c18f4f7a07082a",
+    "names": [
+      "Suceso TV"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-3a47f96659b68f68",
+    "names": [
+      "TV Aire"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-77f7b06500cc08ae",
+    "names": [
+      "Latina TV"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-e80d649d1d105c6c",
+    "names": [
+      "Promar TV"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-47eeff766a815bd5",
+    "names": [
+      "Reforma TV"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-61a1295b368c8d51",
+    "names": [
+      "Telearagua"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-7ee47609914adbf7",
+    "names": [
+      "Advenir"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-112e0aa290c26310",
+    "names": [
+      "Mundo Visión TV"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-c2a8dfb84431276c",
+    "names": [
+      "Cadena A"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-2580f9d4e5e34913",
+    "names": [
+      "Antares TV"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "Canal Sony FHD",
+    "names": [
+      "Canal N",
+      "CANAL SONY HD",
+      "CANAL SONY SD",
+      "CANAL SONY MOVIES HD"
+    ],
+    "source_id": "Canal Sony FHD"
+  },
+  {
+    "id": "TV Cultura FHD",
+    "names": [
+      "Cultura 24 TV (No 24/7)"
+    ],
+    "source_id": "TV Cultura FHD"
+  },
+  {
+    "id": "m3u-ccfd79f6861babb8",
+    "names": [
+      "Movistar Plus"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-7c4badcbd5c6f62b",
+    "names": [
+      "TV Cosmos"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-5d4867d1ae64f776",
+    "names": [
+      "TVpe"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-63b92be8a9857e9e",
+    "names": [
+      "TVpe Noticias"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-d3dd9cfbaa38444c",
+    "names": [
+      "Contacto TV"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-41a15f292fec72f2",
+    "names": [
+      "Cadena TV"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-66edeb8237364a2c",
+    "names": [
+      "Unitel Peru"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-355b43ece5a0f160",
+    "names": [
+      "Impacto TV"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-3f5101f8af90deb5",
+    "names": [
+      "D*TV SP (Uru)"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-d4b2c946ea993e45",
+    "names": [
+      "UCL"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-06345d14ff96a45e",
+    "names": [
+      "UFCPASS 03 - 24H"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-786bcfa7f3797b03",
+    "names": [
+      "UFCPASS 04 - 24H"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-1fbede47edecd298",
+    "names": [
+      "UFCPASS 05 - 24H"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-5b9d06dd20e76d71",
+    "names": [
+      "UFCPASS 07 - 24H"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-18cf475ff63b9946",
+    "names": [
+      "UFCPASS 09 - 24H"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-b84ffbda2bd679dc",
+    "names": [
+      "UFCPASS 10 - 24H"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-782c81fce3656d1d",
+    "names": [
+      "CINE COMEDIA 01 - 24H"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-560afee7881b7b1d",
+    "names": [
+      "CINE COMEDIA 02 - 24H"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-b13d3a6ca27eca5a",
+    "names": [
+      "CINE COMEDIA 05 - 24H"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-59b8acda2521526c",
+    "names": [
+      "CINE COMEDIA 07 - 24H"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-84b91b197df727bb",
+    "names": [
+      "CINE COMEDIA 10 - 24H"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-33b5760e51b923dc",
+    "names": [
+      "CINE ACAO 03 - 24H"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-7fa0be9ca8399cb9",
+    "names": [
+      "CINE ACAO 08 - 24H"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-1a6d362b770baa5f",
+    "names": [
+      "CINE ACAO 09 - 24H"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-a1c7fb00282a18e8",
+    "names": [
+      "CINE ACAO 10 - 24H"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-f9345f18d9e3e0ee",
+    "names": [
+      "CINE DRAMA 01 - 24H"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-af1e0f9f61f1996a",
+    "names": [
+      "CINE DRAMA 04 - 24H"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-b41ae9d30d62c10d",
+    "names": [
+      "CINE FICCAO - 24H"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-89a3f34b196f017d",
+    "names": [
+      "CINE FICCAO 02 - 24H"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-ac490ff019c0d89e",
+    "names": [
+      "CINE FICCAO 03 - 24H"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-0941e7dc7b0fd55a",
+    "names": [
+      "CINE FICCAO 05 - 24H"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-28d3ec85c3637293",
+    "names": [
+      "CINE FICCAO 06 - 24H"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-339bc1fed9a25fa2",
+    "names": [
+      "CINE FICCAO - 09 24H"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-eeb9993bdfaeda47",
+    "names": [
+      "CINE FICCAO 10 - 24H"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-be2ad7302a52c28a",
+    "names": [
+      "CINE FICCAO 04 - 24H"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-f2c034e622653131",
+    "names": [
+      "CINE HEROIS 02 - 24H"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-9ca06473582751c2",
+    "names": [
+      "CINE HEROIS 03 - 24H"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-02fae6aef9ee9420",
+    "names": [
+      "CINE HEROIS 04 - 24H"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-2890146132cf3b4f",
+    "names": [
+      "CINE HEROIS 05 - 24H"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "Cinemax HD",
+    "names": [
+      "CINEMA2026",
+      "CINEMAX SD",
+      "CINEMAX HD"
+    ],
+    "source_id": "Cinemax HD"
+  },
+  {
+    "id": "m3u-a02e45469cf202e7",
+    "names": [
+      "ALINE BARROS"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-ccb97be702811475",
+    "names": [
+      "ANDERSON FREIRE"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-77360c6818b24dd1",
+    "names": [
+      "BRUNA KARLA"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-0f53e12e178b3606",
+    "names": [
+      "CASSIANE"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-99b1f2d594e2b96a",
+    "names": [
+      "FERNANDINHO"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-93ba9b2df306230a",
+    "names": [
+      "GABRIELA ROCHA"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-a32bd8e988d7148b",
+    "names": [
+      "SAMUEL MARIANO"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-86336943008e2344",
+    "names": [
+      "CHITÃOZINHO & XORORÓ"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-d1482b9e80e9f61b",
+    "names": [
+      "CHRISTIAN & RALF"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-c73d869f45454934",
+    "names": [
+      "GUSTAVO LIMA"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-60aa103b45c37235",
+    "names": [
+      "IVETE SANGALO"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-bf77a12f87f1f45a",
+    "names": [
+      "LULU SANTOS"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-aef1f95dde0bc173",
+    "names": [
+      "MAIARA E MARAISA"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-797811f4d54152df",
+    "names": [
+      "MARILIA MENDONÇA"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-0913f87d3cf210cc",
+    "names": [
+      "NAIARA AZEVEDO"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-f8189ce3cbd1d9f7",
+    "names": [
+      "ROUPA NOVA"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-a91e295ab98f5e8d",
+    "names": [
+      "SEU JORGE & ALEXANDRE PIRES"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-553ef7de087e7789",
+    "names": [
+      "SIMONE E SIMARIA"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-5446b5f517a5d158",
+    "names": [
+      "SKANK"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-117dce6697979459",
+    "names": [
+      "ALOK"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-1abf809827cf95d1",
+    "names": [
+      "FIT DANCE"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-34b10aecf27a8eed",
+    "names": [
+      "FLASH BACK"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-65a8400e6187c90b",
+    "names": [
+      "FUNK"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-95300fc856ffa127",
+    "names": [
+      "HIP HOP"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-b4a0dabc2c1c1c28",
+    "names": [
+      "JORGE E MATEUS"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-fa07927cbc6494ba",
+    "names": [
+      "MUSICAS GAÚCHAS"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-542b493cd52d496c",
+    "names": [
+      "TARDEZINHA COM THIAGUINHO"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-f97759bd2c2086e2",
+    "names": [
+      "ZUMBA"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "As aventuras de Jackie Chan 24H",
+    "names": [
+      "AS AVENTURAS DE JACK CHAN"
+    ],
+    "source_id": "As aventuras de Jackie Chan 24H"
+  },
+  {
+    "id": "m3u-316d7ab22c60fd28",
+    "names": [
+      "AVATAR: A LENDA DE KORRA"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-0818f91c6a3626d8",
+    "names": [
+      "BAKUGAN"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "Ben 10 24H",
+    "names": [
+      "BEN 10"
+    ],
+    "source_id": "Ben 10 24H"
+  },
+  {
+    "id": "m3u-65c7247bcd37221c",
+    "names": [
+      "BEYBLADE"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-da24881a7465d1f6",
+    "names": [
+      "DRAGON BALL"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-4e5de447136a4dad",
+    "names": [
+      "DRAGON BALL GT"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-72de065e87f15388",
+    "names": [
+      "DRAGON BALL SUPER"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-9aefcfd82adea053",
+    "names": [
+      "DRAGON BALL Z"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-f73888dba270c720",
+    "names": [
+      "HAMTARO"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-3cbf3ccb97e79ac4",
+    "names": [
+      "MEDABOTS"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-a9ccf8bda120fffe",
+    "names": [
+      "NARUTO"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "Cavaleiros Zodiaco 24h",
+    "names": [
+      "OS CAVALEIROS DO ZODIACO"
+    ],
+    "source_id": "Cavaleiros Zodiaco 24h"
+  },
+  {
+    "id": "m3u-6d824358d279765a",
+    "names": [
+      "OS VINGADORES UNIDOS"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-1e27b4f57fcb9f26",
+    "names": [
+      "POKÉMON"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-65d7e35b139a6703",
+    "names": [
+      "SAKURA CARD CAPTOR"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-ba8b78afdf3f00ba",
+    "names": [
+      "SHAMAN KING"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-e7f974ed8f32096c",
+    "names": [
+      "AMERICAN DAD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-5e0186874d1b81a0",
+    "names": [
+      "BIG BANG: A TEORIA"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-2651ffa57073620b",
+    "names": [
+      "BRICKLEBERRY"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-730df9983fa2b40b",
+    "names": [
+      "DOIS HOMENS E MEIO"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-9af65fd3ee313286",
+    "names": [
+      "ESCOLHINHA DO PROFESSOR RAIMUNDO 2015"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-4f9d34df0d7a2612",
+    "names": [
+      "ESCOLHINHA DO PROFESSOR RAIMUNDO CLASSICO"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-b96b7f093f111d4b",
+    "names": [
+      "A PATROA E AS CRIANÇAS"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-0806f40731e02943",
+    "names": [
+      "ICARLY"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "Kenan e Kel 24H",
+    "names": [
+      "KENAN E KEL"
+    ],
+    "source_id": "Kenan e Kel 24H"
+  },
+  {
+    "id": "m3u-fd7c413a3f1bab2e",
+    "names": [
+      "MACGYVER"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-d62d3e63e9e6de6e",
+    "names": [
+      "OS RONI"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-ad7f907edec4f42f",
+    "names": [
+      "OS SIMPSONS"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-96b68d62f2988d8a",
+    "names": [
+      "OS SUBURBANOS"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "Os Trapalhões 24H",
+    "names": [
+      "OS TRAPALHÕES"
+    ],
+    "source_id": "Os Trapalhões 24H"
+  },
+  {
+    "id": "m3u-2dd339382debfbcb",
+    "names": [
+      "PEGADINHA DO JOÃO KLEBER"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-6f8cf5141516acd8",
+    "names": [
+      "PEGADINHAS DO SILVIO SANTOS"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-e195127be685f3ef",
+    "names": [
+      "PESADELO NA COZINHA"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-11d9bdf83f123fa0",
+    "names": [
+      "SITIO DO PICA-PAU AMARELO 1977"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-0ed536b88fd69fdc",
+    "names": [
+      "THE NOITE"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-29b35fb6b625d957",
+    "names": [
+      "TO DE GRAÇA"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-f91a54a412cfc7b9",
+    "names": [
+      "TODO MUNDO ODEIA O CHRIS"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-b3e7b9c70b579840",
+    "names": [
+      "TRAIR E COÇAR É SO COMEÇAR"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-0ca24df83f405cf0",
+    "names": [
+      "TÁ NO AR"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-2b9c12bf35a0f3ad",
+    "names": [
+      "UM MALUCO NO PEDAÇO"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-9616d866e78bceaa",
+    "names": [
+      "VAI QUE COLA"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "Canal do Boi FHD",
+    "names": [
+      "CANAL DO BOI HD",
+      "CANAL DO BOI SD"
+    ],
+    "source_id": "Canal do Boi FHD"
+  },
+  {
+    "id": "175",
+    "names": [
+      "CULTURA SD",
+      "CULTURA HD"
+    ],
+    "source_id": "175"
+  },
+  {
+    "id": "Rede TV 4K",
+    "names": [
+      "REDE TV HD"
+    ],
+    "source_id": "Rede TV 4K"
+  },
+  {
+    "id": "Terra Viva SD",
+    "names": [
+      "TERRA VIVA"
+    ],
+    "source_id": "Terra Viva SD"
+  },
+  {
+    "id": "80",
+    "names": [
+      "AGRO +"
+    ],
+    "source_id": "80"
+  },
+  {
+    "id": "Canal Rural SD",
+    "names": [
+      "CANAL RURAL"
+    ],
+    "source_id": "Canal Rural SD"
+  },
+  {
+    "id": "Band News SD",
+    "names": [
+      "BAND NEWS HD"
+    ],
+    "source_id": "Band News SD"
+  },
+  {
+    "id": "CNN Brasil HD",
+    "names": [
+      "CNN BRASIL HD",
+      "CNN BRASIL FHD"
+    ],
+    "source_id": "CNN Brasil HD"
+  },
+  {
+    "id": "CNN Internacional SD",
+    "names": [
+      "CNN INTERNACIONAL HD"
+    ],
+    "source_id": "CNN Internacional SD"
+  },
+  {
+    "id": "Globo News HD",
+    "names": [
+      "GLOBO NEWS HD",
+      "GLOBO NEWS FHD"
+    ],
+    "source_id": "Globo News HD"
+  },
+  {
+    "id": "Record News HD",
+    "names": [
+      "RECORD NEWS HD",
+      "RECORD NEWS SD"
+    ],
+    "source_id": "Record News HD"
+  },
+  {
+    "id": "300",
+    "names": [
+      "CANÇÃO NOVA SD",
+      "CANÇÃO NOVA HD"
+    ],
+    "source_id": "300"
+  },
+  {
+    "id": "Tvnovotempo.br",
+    "names": [
+      "TV NOVO TEMPO HD"
+    ],
+    "source_id": "Tvnovotempo.br"
+  },
+  {
+    "id": "59",
+    "names": [
+      "REDE GOSPEL HD"
+    ],
+    "source_id": "59"
+  },
+  {
+    "id": "Rede Super SD",
+    "names": [
+      "REDE SUPER HD"
+    ],
+    "source_id": "Rede Super SD"
+  },
+  {
+    "id": "Rede Vida HD",
+    "names": [
+      "REDE VIDA"
+    ],
+    "source_id": "Rede Vida HD"
+  },
+  {
+    "id": "TV Aparecida SD",
+    "names": [
+      "TV APARECIDA"
+    ],
+    "source_id": "TV Aparecida SD"
+  },
+  {
+    "id": "TV Evangelizar SD",
+    "names": [
+      "TV EVANGELIZAR HD"
+    ],
+    "source_id": "TV Evangelizar SD"
+  },
+  {
+    "id": "373",
+    "names": [
+      "TV PAI ETERNO HD"
+    ],
+    "source_id": "373"
+  },
+  {
+    "id": "Boa Vontade SD",
+    "names": [
+      "BOA VONTADE"
+    ],
+    "source_id": "Boa Vontade SD"
+  },
+  {
+    "id": "A&E HD",
+    "names": [
+      "A&E HD",
+      "A&E SD"
+    ],
+    "source_id": "A&E HD"
+  },
+  {
+    "id": "AMC HD",
+    "names": [
+      "AMC HD",
+      "AMC SD"
+    ],
+    "source_id": "AMC HD"
+  },
+  {
+    "id": "AXN HD",
+    "names": [
+      "AXN HD",
+      "AXN SD"
+    ],
+    "source_id": "AXN HD"
+  },
+  {
+    "id": "Canal Brasil HD",
+    "names": [
+      "CANAL BRASIL HD",
+      "CANAL BRASIL FHD",
+      "CANAL BRASIL SD"
+    ],
+    "source_id": "Canal Brasil HD"
+  },
+  {
+    "id": "Lifetime HD",
+    "names": [
+      "LIFETIME SD",
+      "LIFETIME FHD",
+      "LIFETIME HD"
+    ],
+    "source_id": "Lifetime HD"
+  },
+  {
+    "id": "Megapix 4K",
+    "names": [
+      "MEGAPIX HD",
+      "MEGAPIX FHD",
+      "MEGAPIX SD"
+    ],
+    "source_id": "Megapix 4K"
+  },
+  {
+    "id": "Space 4K",
+    "names": [
+      "SPACE HD",
+      "SPACE SD"
+    ],
+    "source_id": "Space 4K"
+  },
+  {
+    "id": "Studio Universal HD",
+    "names": [
+      "STUDIO UNIVERSAL HD",
+      "STUDIO UNIVERSAL SD"
+    ],
+    "source_id": "Studio Universal HD"
+  },
+  {
+    "id": "TNT 4K",
+    "names": [
+      "TNT HD",
+      "TNT SD"
+    ],
+    "source_id": "TNT 4K"
+  },
+  {
+    "id": "323",
+    "names": [
+      "UNIVERSAL PREMIERE HD",
+      "UNIVERSAL PREMIERE SD"
+    ],
+    "source_id": "323"
+  },
+  {
+    "id": "324",
+    "names": [
+      "UNIVERSAL REALITY HD",
+      "UNIVERSAL REALITY SD"
+    ],
+    "source_id": "324"
+  },
+  {
+    "id": "Food Network HD",
+    "names": [
+      "USA NETWORK",
+      "FOOD NETWORK FHD",
+      "FOOD NETWORK HD",
+      "FOOD NETWORK SD"
+    ],
+    "source_id": "Food Network HD"
+  },
+  {
+    "id": "Warner Channel HD",
+    "names": [
+      "WARNER CHANNEL HD",
+      "WARNER CHANNEL SD"
+    ],
+    "source_id": "Warner Channel HD"
+  },
+  {
+    "id": "TCM SD",
+    "names": [
+      "TCM"
+    ],
+    "source_id": "TCM SD"
+  },
+  {
+    "id": "HBO HD",
+    "names": [
+      "HBO HD",
+      "HBO FHD",
+      "HBO SD"
+    ],
+    "source_id": "HBO HD"
+  },
+  {
+    "id": "HBO 2 HD",
+    "names": [
+      "HBO 2 HD",
+      "HBO 2 FHD",
+      "HBO 2 SD"
+    ],
+    "source_id": "HBO 2 HD"
+  },
+  {
+    "id": "HBO Family HD",
+    "names": [
+      "HBO FAMILY HD",
+      "HBO FAMILY FHD",
+      "HBO FAMILY SD"
+    ],
+    "source_id": "HBO Family HD"
+  },
+  {
+    "id": "HBO Mundi HD",
+    "names": [
+      "HBO MUNDI HD",
+      "HBO MUNDI FHD",
+      "HBO MUNDI SD"
+    ],
+    "source_id": "HBO Mundi HD"
+  },
+  {
+    "id": "265",
+    "names": [
+      "HBO POP HD",
+      "HBO POP FHD",
+      "HBO POP SD"
+    ],
+    "source_id": "265"
+  },
+  {
+    "id": "262",
+    "names": [
+      "HBO PLUS HD",
+      "HBO PLUS FHD",
+      "HBO PLUS SD"
+    ],
+    "source_id": "262"
+  },
+  {
+    "id": "HBO Signature HD",
+    "names": [
+      "HBO SIGNATURE HD",
+      "HBO SIGNATURE FHD",
+      "HBO SIGNATURE SD"
+    ],
+    "source_id": "HBO Signature HD"
+  },
+  {
+    "id": "HBO Xtreme HD",
+    "names": [
+      "HBO XTREME HD",
+      "HBO XTREME FHD",
+      "HBO XTREME SD"
+    ],
+    "source_id": "HBO Xtreme HD"
+  },
+  {
+    "id": "Cartoon Network 4K",
+    "names": [
+      "CARTOON NETWORK HD",
+      "CARTOON NETWORK SD"
+    ],
+    "source_id": "Cartoon Network 4K"
+  },
+  {
+    "id": "11",
+    "names": [
+      "CARTOONITO HD",
+      "CARTOONITO SD"
+    ],
+    "source_id": "11"
+  },
+  {
+    "id": "Discovery Kids HD",
+    "names": [
+      "DISCOVERY KIDS HD",
+      "DISCOVERY KIDS SD"
+    ],
+    "source_id": "Discovery Kids HD"
+  },
+  {
+    "id": "Gloob HD",
+    "names": [
+      "GLOOB HD",
+      "GLOOB FHD"
+    ],
+    "source_id": "Gloob HD"
+  },
+  {
+    "id": "94",
+    "names": [
+      "GLOOBINHO SD",
+      "GLOOBINHO FHD",
+      "GLOOBINHO HD"
+    ],
+    "source_id": "94"
+  },
+  {
+    "id": "TV Ra tim bum FHD",
+    "names": [
+      "RA-TIM-BUM"
+    ],
+    "source_id": "TV Ra tim bum FHD"
+  },
+  {
+    "id": "Zoomoo SD",
+    "names": [
+      "ZOOMOO"
+    ],
+    "source_id": "Zoomoo SD"
+  },
+  {
+    "id": "34",
+    "names": [
+      "ARTE1 FHD",
+      "ARTE1 HD"
+    ],
+    "source_id": "34"
+  },
+  {
+    "id": "322",
+    "names": [
+      "ADULT SWIM FHD",
+      "ADULT SWIM HD",
+      "ADULT SWIM SD"
+    ],
+    "source_id": "322"
+  },
+  {
+    "id": "Curta SD",
+    "names": [
+      "CURTA! FHD",
+      "CURTA! HD"
+    ],
+    "source_id": "Curta SD"
+  },
+  {
+    "id": "96",
+    "names": [
+      "CANAL OFF FHD",
+      "CANAL OFF HD",
+      "CANAL OFF SD"
+    ],
+    "source_id": "96"
+  },
+  {
+    "id": "m3u-0aee4c6c7a8be302",
+    "names": [
+      "DOGTV FHD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-328e5c9a98208572",
+    "names": [
+      "DOGTV HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-d8cf36b9c89b9307",
+    "names": [
+      "DOGTV SD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "87",
+    "names": [
+      "E! FHD",
+      "E! HD"
+    ],
+    "source_id": "87"
+  },
+  {
+    "id": "100",
+    "names": [
+      "MODO VIAGEM FHD",
+      "MODO VIAGEM HD",
+      "MODO VIAGEM SD"
+    ],
+    "source_id": "100"
+  },
+  {
+    "id": "TLC HD",
+    "names": [
+      "TLC FHD",
+      "TLC HD",
+      "TLC SD"
+    ],
+    "source_id": "TLC HD"
+  },
+  {
+    "id": "81",
+    "names": [
+      "TRACE BRAZUCA FHD",
+      "TRACE BRAZUCA HD",
+      "TRACE BRAZUCA SD"
+    ],
+    "source_id": "81"
+  },
+  {
+    "id": "m3u-4533247f0c24e964",
+    "names": [
+      "TV5 MONDE FHD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-88aca98c22f1f351",
+    "names": [
+      "TV5 MONDE HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-bb658f2db3764a5a",
+    "names": [
+      "TV5 MONDE SD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "Woohoo HD",
+    "names": [
+      "CANAL WOOHOO FHD",
+      "CANAL WOOHOO HD",
+      "CANAL WOOHOO SD"
+    ],
+    "source_id": "Woohoo HD"
+  },
+  {
+    "id": "Animal Planet 4K",
+    "names": [
+      "ANIMAL PLANET FHD",
+      "ANIMAL PLANET HD",
+      "ANIMAL PLANET SD"
+    ],
+    "source_id": "Animal Planet 4K"
+  },
+  {
+    "id": "Historychannel.br",
+    "names": [
+      "HISTORY CHANNEL FHD",
+      "HISTORY CHANNEL HD",
+      "HISTORY CHANNEL SD"
+    ],
+    "source_id": "Historychannel.br"
+  },
+  {
+    "id": "H2 HD",
+    "names": [
+      "H2 FHD",
+      "H2 HD",
+      "H2 SD"
+    ],
+    "source_id": "H2 HD"
+  },
+  {
+    "id": "115",
+    "names": [
+      "HGTV FHD",
+      "HGTV HD",
+      "HGTV SD"
+    ],
+    "source_id": "115"
+  },
+  {
+    "id": "13",
+    "names": [
+      "ID FHD",
+      "ID HD",
+      "ID SD"
+    ],
+    "source_id": "13"
+  },
+  {
+    "id": "Discovery Science HD",
+    "names": [
+      "DISCOVERY SCIENCE FHD",
+      "DISCOVERY SCIENCE HD",
+      "DISCOVERY SCIENCE SD"
+    ],
+    "source_id": "Discovery Science HD"
+  },
+  {
+    "id": "Discovery Theater HD",
+    "names": [
+      "DISCOVERY THEATER FHD",
+      "DISCOVERY THEATER HD",
+      "DISCOVERY THEATER SD"
+    ],
+    "source_id": "Discovery Theater HD"
+  },
+  {
+    "id": "Discovery Turbo HD",
+    "names": [
+      "DISCOVERY TURBO FHD",
+      "DISCOVERY TURBO HD",
+      "DISCOVERY TURBO SD"
+    ],
+    "source_id": "Discovery Turbo HD"
+  },
+  {
+    "id": "Discovery World HD",
+    "names": [
+      "DISCOVERY WORLD FHD",
+      "DISCOVERY WORLD HD",
+      "DISCOVERY WORLD SD"
+    ],
+    "source_id": "Discovery World HD"
+  },
+  {
+    "id": "m3u-bd39ed490cf6e07b",
+    "names": [
+      "BR: A Fazenda 18 Cam 01"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-7c2c559d1e1aee94",
+    "names": [
+      "BR: A Fazenda 18 Cam 02"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-2b71b68b3df2b724",
+    "names": [
+      "BR: A Fazenda 18 Cam 03"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-b6931622c6706244",
+    "names": [
+      "BR: A Fazenda 18 Cam 04"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-9ea55769d0598987",
+    "names": [
+      "BR: A Fazenda 18 Cam 05"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-65b1afad9ffe0a23",
+    "names": [
+      "BR: A Fazenda 18 Cam 06"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-50d645a4364dbb59",
+    "names": [
+      "UFC FHD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-ac6832e12042b76a",
+    "names": [
+      "UFC HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-4bb8e2e1c6025769",
+    "names": [
+      "UFC SD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-c01fda27f7883ad5",
+    "names": [
+      "19:30 - SANTOS X FLAMENGO\tFHD [1]"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-d9282c0df452d016",
+    "names": [
+      "19:30 - SANTOS X FLAMENGO\tHD [1]"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-48f7012bfb994dd9",
+    "names": [
+      "19:30 - SANTOS X FLAMENGO\tSD [1]"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-87de61e0fa06330a",
+    "names": [
+      "19:30 - CEARÁ X CRICIÚMA [1]"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-b9ce3313360ca708",
+    "names": [
+      "19:30 - NÁUTICO X NOVORIZONTINO [1]"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-be8cfd229fa38cd4",
+    "names": [
+      "ATHLETICO-PR X ATLÉTICO-MG 20H FHD [1]"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-b20df950324b02e2",
+    "names": [
+      "ATHLETICO-PR X ATLÉTICO-MG 20H HD [1]"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-59afc226ad7a2f3c",
+    "names": [
+      "21:30 - PALMEIRAS X BAHIA FHD [1]"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-076e99c9a3292446",
+    "names": [
+      "21:30 - PALMEIRAS X BAHIA HD [1]"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-b6a3d5b03b3cae9b",
+    "names": [
+      "21:30 - PALMEIRAS X BAHIA SD [1]"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-d8124723ac0bcc2e",
+    "names": [
+      "21:30 - FLUMINENSE X CORITIBA FHD [1]"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-faecc2d1b8656b44",
+    "names": [
+      "21:30 - FLUMINENSE X CORITIBA HD [1]"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-c3beab197139414e",
+    "names": [
+      "ONLY/PRIVA -MARCIA IMPERATOR - 24H"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-69d841a522817524",
+    "names": [
+      "ONLY/PRIVA -JOANA ANGEL - 24H"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-8211469825f57593",
+    "names": [
+      "ONLY/PRIVA -KAREN OLIVER - 24H"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-a0beb1b4b7f4ea41",
+    "names": [
+      "ONLY/PRIVA -GABI LUNA - 24H"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-206c970bb40c226a",
+    "names": [
+      "ONLY/PRIVA -NATHALIA FONTES - 24H"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-2dc58c8960138040",
+    "names": [
+      "ONLY/PRIVA -RAISA CONTE - 24H"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-1fbe377540fa1e4a",
+    "names": [
+      "ONLY/PRIVA -REYLEI REID - 24H"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-362bad291cbc262a",
+    "names": [
+      "XXX • EXXXOTICA TV HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-5e2949e988337bae",
+    "names": [
+      "XXX • FAP TV 4 HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-b669474e87d9d033",
+    "names": [
+      "XXX • FAP TV BBW HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-29a979b63081fa95",
+    "names": [
+      "XXX • EXTASY TV HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-8866101100467c45",
+    "names": [
+      "XXX • FAP TV LESBIAN HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-f4023d536e12e2ae",
+    "names": [
+      "XXX • FAP TV PARODY HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-b37cabda4da92765",
+    "names": [
+      "XXX • FAP TV TEENS HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-1fd2697a5fb64091",
+    "names": [
+      "XXX • O LA LA HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-dccce4a0e73e0925",
+    "names": [
+      "XXX • PENTHOUSE GOLD HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-8d7edd6384f6a445",
+    "names": [
+      "XXX • PENTHOUSE QUICKIES HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-fa9f4359712f6ec6",
+    "names": [
+      "XXX • PRIVATE TV HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-3dcabd3cf1901731",
+    "names": [
+      "XXX • RED LIPS HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "Sextreme SD",
+    "names": [
+      "XXX • SEXTREME HD",
+      "XXX • SEXTREME SD"
+    ],
+    "source_id": "Sextreme SD"
+  },
+  {
+    "id": "Venus HD",
+    "names": [
+      "XXX • VENUS FHD",
+      "XXX • VENUS HD"
+    ],
+    "source_id": "Venus HD"
+  },
+  {
+    "id": "m3u-8cc2f3b173269427",
+    "names": [
+      "XXX • DORCEL TV HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-fb60d2189d483ded",
+    "names": [
+      "XXX • VIVID RED HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-b81794a8f7b9e4ad",
+    "names": [
+      "XXX • XXL TV HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-787459b077169c44",
+    "names": [
+      "XXX • XY PLUS HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-1c2c36ac94ae5823",
+    "names": [
+      "XXX - ASIAN HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-49ebe4474702d3a7",
+    "names": [
+      "XXX - GAY HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-b6c98c2eea1ced36",
+    "names": [
+      "XXX - BLONDE HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-f421e559594d5c28",
+    "names": [
+      "XXX - COMPILATION HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "GangBang 24H",
+    "names": [
+      "XXX - GANGBANG HD"
+    ],
+    "source_id": "GangBang 24H"
+  },
+  {
+    "id": "m3u-d7824aad9e8f3252",
+    "names": [
+      "XXX - ROUGH HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-a2ff2aa0bae503e3",
+    "names": [
+      "XXX - RUSSIAN HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-c90df6f638825c9f",
+    "names": [
+      "XXX - FETISH HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-cb83c493a5cf128b",
+    "names": [
+      "XXX - CUCKOLD HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-1ad333ce0d2f2d7f",
+    "names": [
+      "XXX - BIG TITS HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-e7ded0683e35d8de",
+    "names": [
+      "XXX - BIG DICK HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-185436e66a0faa9c",
+    "names": [
+      "XXX - BIG ASS HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-09899bff63077210",
+    "names": [
+      "XXX - THREESOME HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-7fd06e00ee9138db",
+    "names": [
+      "XXX - TEEN HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-c149bba6faff9dc6",
+    "names": [
+      "XXX - PORNSTAR HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-fd4de5f09203dfd8",
+    "names": [
+      "XXX - MILF HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-b54695e95e42f448",
+    "names": [
+      "XXX - LESBIAN HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-6bbcbc6fda928027",
+    "names": [
+      "XXX - INTERRACIAL HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-75b2c712fa89d318",
+    "names": [
+      "XXX - HARDCORE HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-aaba449829063b58",
+    "names": [
+      "XXX - BLOWJOB HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-9b875bbde43ee5fe",
+    "names": [
+      "XXX - POV HD"
+    ],
+    "source_id": ""
+  },
+  {
+    "id": "m3u-bd5ae63d2995c792",
+    "names": [
+      "XXX - LATINA HD"
+    ],
+    "source_id": ""
+  }
+]
