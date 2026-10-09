@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T10:37:07.401404+00:00",
+  "generated_at": "2026-10-09T10:45:13.525125+00:00",
   "channels": [
     {
       "id": "m3u-9a68ecbd58739644",
@@ -1422,9 +1422,9 @@
         "Band Sports SD"
       ],
       "status": "mapped",
-      "programmes": 54,
-      "source": "generated/vivo.xml",
-      "source_id": "vivo-lch7180"
+      "programmes": 165,
+      "source": "generated/meuguia.xml",
+      "source_id": "meuguia-BSP"
     },
     {
       "id": "ESPN 2 HD",
@@ -1434,9 +1434,9 @@
         "ESPN 2 SD"
       ],
       "status": "mapped",
-      "programmes": 31,
-      "source": "generated/vivo.xml",
-      "source_id": "vivo-lch464"
+      "programmes": 120,
+      "source": "generated/meuguia.xml",
+      "source_id": "meuguia-ES2"
     },
     {
       "id": "ESPN 3 HD",
@@ -1446,9 +1446,9 @@
         "ESPN 3 SD"
       ],
       "status": "mapped",
-      "programmes": 36,
-      "source": "generated/vivo.xml",
-      "source_id": "vivo-lch49"
+      "programmes": 120,
+      "source": "generated/meuguia.xml",
+      "source_id": "meuguia-ES3"
     },
     {
       "id": "ESPN 4 4K",
@@ -1458,9 +1458,9 @@
         "ESPN 4 SD"
       ],
       "status": "mapped",
-      "programmes": 39,
-      "source": "generated/vivo.xml",
-      "source_id": "vivo-lch144"
+      "programmes": 122,
+      "source": "generated/meuguia.xml",
+      "source_id": "meuguia-ES4"
     },
     {
       "id": "ESPN 4k",
@@ -1594,9 +1594,9 @@
         "Sportv 2 SD"
       ],
       "status": "mapped",
-      "programmes": 34,
-      "source": "generated/vivo.xml",
-      "source_id": "vivo-lch217"
+      "programmes": 96,
+      "source": "generated/meuguia.xml",
+      "source_id": "meuguia-SP2"
     },
     {
       "id": "SporTV 3 HD",
@@ -1606,9 +1606,9 @@
         "Sportv 3 SD"
       ],
       "status": "mapped",
-      "programmes": 41,
-      "source": "generated/vivo.xml",
-      "source_id": "vivo-lch1210"
+      "programmes": 129,
+      "source": "generated/meuguia.xml",
+      "source_id": "meuguia-SP3"
     },
     {
       "id": "m3u-a6c772ed50f15a3a",
@@ -1626,9 +1626,9 @@
         "Combate SD"
       ],
       "status": "mapped",
-      "programmes": 37,
-      "source": "generated/vivo.xml",
-      "source_id": "vivo-lch1211"
+      "programmes": 89,
+      "source": "generated/meuguia.xml",
+      "source_id": "meuguia-135"
     },
     {
       "id": "329",
@@ -1858,8 +1858,10 @@
         "PREMIERE CLUBES HD",
         "PREMIERE CLUBES SD"
       ],
-      "status": "ambiguous",
-      "programmes": 0
+      "status": "mapped",
+      "programmes": 280,
+      "source": "generated/meuguia.xml",
+      "source_id": "meuguia-121"
     },
     {
       "id": "Premiere 2 HD",
@@ -5496,6 +5498,11 @@
   ],
   "sources": [
     {
+      "url": "generated/meuguia.xml",
+      "status": "ok",
+      "usable_programmes": 1335
+    },
+    {
       "url": "generated/vivo.xml",
       "status": "ok",
       "usable_programmes": 5429
@@ -5504,6 +5511,11 @@
       "url": "generated/claro.xml",
       "status": "ok",
       "usable_programmes": 8717
+    },
+    {
+      "url": "generated/prime.xml",
+      "status": "ok",
+      "usable_programmes": 15
     },
     {
       "url": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml",
@@ -5536,8 +5548,8 @@
       "error_type": "HTTPError"
     }
   ],
-  "programmes": 5382,
-  "mapped_channels": 87,
+  "programmes": 6231,
+  "mapped_channels": 88,
   "scrapers": [
     {
       "provider": "claro",
@@ -5551,6 +5563,20 @@
       "status": "ok",
       "channels": 101,
       "programmes": 5429,
+      "failed_channel_requests": 0
+    },
+    {
+      "provider": "prime",
+      "status": "ok",
+      "channels": 2,
+      "programmes": 15,
+      "failed_channel_requests": 0
+    },
+    {
+      "provider": "meuguia",
+      "status": "ok",
+      "channels": 10,
+      "programmes": 1335,
       "failed_channel_requests": 0
     }
   ]
