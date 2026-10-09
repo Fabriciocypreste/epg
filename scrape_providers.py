@@ -1,5 +1,6 @@
 """Collect public Claro/Vivo schedule metadata into XMLTV, without playback APIs."""
 import json
+import re
 import time
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -11,6 +12,137 @@ import xml.etree.ElementTree as ET
 CLARO = 'https://programacao.claro.com.br/gatekeeper/'
 VIVO = 'https://contentapi-br.cdn.telefonica.com/25/default/pt-BR/'
 TZ = ZoneInfo('America/Sao_Paulo')
+
+
+def get_html(url):
+    with urlopen(Request(url, headers={'User-Agent': 'Fabriciocypreste-EPG/1.0'}), timeout=30) as response:
+        data = response.read(10 * 1024 * 1024 + 1)
+    if len(data) > 10 * 1024 * 1024:
+        raise ValueError('HTML size limit exceeded')
+    return data.decode('utf-8')
+
+
+def parse_meuguia(html, ident, now=None):
+    from bs4 import BeautifulSoup
+    now = now or datetime.now(TZ)
+    soup = BeautifulSoup(html, 'html.parser')
+    day, rows = None, []
+    for item in soup.select('ul.mw li'):
+        if 'subheader' in item.get('class', []):
+            match = re.search(r'(\d{1,2})/(\d{1,2})', item.get_text(' ', strip=True))
+            if match:
+                dates = []
+                for year in (now.year - 1, now.year, now.year + 1):
+                    try:
+                        dates.append(datetime(year, int(match[2]), int(match[1]), tzinfo=TZ))
+                    except ValueError:
+                        pass
+                day = min(dates, key=lambda d: abs((d - now).total_seconds())) if dates else None
+            continue
+        link, clock = item.find('a'), item.select_one('.time')
+        if not day or not link or not clock:
+            continue
+        title = link.get('title') or (item.find('h2').get_text(' ', strip=True) if item.find('h2') else '')
+        match = re.fullmatch(r'(\d{1,2}):(\d{2})', clock.get_text(strip=True))
+        if not match or not title:
+            continue
+        try:
+            start = day.replace(hour=int(match[1]), minute=int(match[2]))
+        except ValueError:
+            continue
+        category = item.find('h3')
+        rows.append((start, title, category.get_text(' ', strip=True) if category else ''))
+    rows = sorted(set(rows))
+    programs = []
+    for current, following in zip(rows, rows[1:]):
+        start, title, category = current
+        stop = following[0]
+        # End comes from the next programme, not an invented duration.
+        if start >= stop or stop <= now - timedelta(hours=12) or start >= now + timedelta(days=7):
+            continue
+        element = ET.Element('programme', {'channel': ident, 'start': start.strftime('%Y%m%d%H%M%S %z'), 'stop': stop.strftime('%Y%m%d%H%M%S %z')})
+        ET.SubElement(element, 'title', {'lang': 'pt'}).text = title
+        if category:
+            ET.SubElement(element, 'category', {'lang': 'pt'}).text = category
+        programs.append(element)
+    return programs
+
+
+def scrape_meuguia(targets):
+    from bs4 import BeautifulSoup
+    from build_epg import normalize
+    soup = BeautifulSoup(get_html('https://meuguia.tv/programacao/categoria/Esportes'), 'html.parser')
+    wanted = {normalize(name) for target in targets for name in target['names']}
+    root = ET.Element('tv', {'generator-info-name': 'Fabriciocypreste/epg meuguia'})
+    catalog = {}
+    for link in soup.select('a[href]'):
+        href = link.get('href', '')
+        if not re.fullmatch(r'/programacao/canal/[A-Za-z0-9_-]+', href):
+            continue
+        heading = link.select_one('.licontent h2') or link.find('h2')
+        if heading:
+            name = heading.get_text(' ', strip=True)
+            if normalize(name) in wanted:
+                catalog[href] = name
+    failures = 0
+    for href, name in catalog.items():
+        ident = 'meuguia-' + href.rsplit('/', 1)[-1]
+        try:
+            programs = parse_meuguia(get_html('https://meuguia.tv' + href), ident)
+            if not programs:
+                continue
+            channel = ET.SubElement(root, 'channel', {'id': ident})
+            ET.SubElement(channel, 'display-name', {'lang': 'pt'}).text = name
+            root.extend(programs)
+        except Exception:
+            failures += 1
+        time.sleep(0.3)
+    root.set('failed-channel-requests', str(failures))
+    return root
+
+
+def parse_prime(html, targets):
+    from build_epg import normalize
+    match = re.search(r'<script\b[^>]*\bid="dv-web-page-hydration-data"[^>]*>(.*?)</script>', html, re.S)
+    if not match:
+        raise ValueError('Prime public schedule data missing')
+    data = json.loads(match.group(1))
+    containers = data['init']['preparations']['body']['containers']
+    wanted = {normalize(name) for target in targets for name in target['names']}
+    root = ET.Element('tv', {'generator-info-name': 'Fabriciocypreste/epg prime'})
+    seen_channels, seen_programmes = set(), set()
+    for container in containers:
+        for entity in container.get('entities', []):
+            station = entity.get('station', {})
+            name, ident = station.get('name', ''), station.get('id')
+            if not ident or normalize(name) not in wanted:
+                continue
+            ident = 'prime-' + ident
+            if ident not in seen_channels:
+                seen_channels.add(ident)
+                channel = ET.SubElement(root, 'channel', {'id': ident})
+                ET.SubElement(channel, 'display-name', {'lang': 'pt'}).text = name
+            for programme in station.get('schedule', []):
+                start, end = programme.get('start'), programme.get('end')
+                if not isinstance(start, (int, float)) or not isinstance(end, (int, float)):
+                    continue
+                key = (ident, start, end)
+                if key in seen_programmes:
+                    continue
+                metadata = programme.get('metadata', {})
+                item = {'Title': metadata.get('title'), 'Description': metadata.get('synopsis'), 'Start': start / 1000, 'End': end / 1000}
+                if add_program(root, ident, item, 'vivo'):
+                    seen_programmes.add(key)
+    return root
+
+
+def scrape_prime(targets):
+    request = Request('https://www.primevideo.com/-/pt/livetv', headers={'User-Agent': 'Fabriciocypreste-EPG/1.0'})
+    with urlopen(request, timeout=30) as response:
+        data = response.read(10 * 1024 * 1024 + 1)
+    if len(data) > 10 * 1024 * 1024:
+        raise ValueError('Prime response size exceeded')
+    return parse_prime(data.decode('utf-8'), targets)
 
 
 def get_json(base, params):
@@ -65,6 +197,10 @@ def add_program(root, ident, item, provider):
 
 
 def scrape(provider, targets, days=2, city='1'):
+    if provider == 'meuguia':
+        return scrape_meuguia(targets)
+    if provider == 'prime':
+        return scrape_prime(targets)
     from build_epg import normalize
     wanted = {normalize(name) for target in targets for name in target['names']}
     if provider == 'claro':
@@ -123,7 +259,7 @@ def collect(targets, directory, days=2, city='1'):
     directory = Path(directory)
     directory.mkdir(parents=True, exist_ok=True)
     files, report = [], []
-    for provider in ('claro', 'vivo'):
+    for provider in ('claro', 'vivo', 'prime', 'meuguia'):
         try:
             root = scrape(provider, targets, days, city)
             count = len(root.findall('programme'))
@@ -137,5 +273,6 @@ def collect(targets, directory, days=2, city='1'):
         except Exception as exc:
             report.append({'provider': provider, 'status': 'error', 'error_type': type(exc).__name__, 'http_status': getattr(exc, 'code', None)})
             print(f'{provider}: {type(exc).__name__}', flush=True)
-    files.sort(key=lambda path: 0 if Path(path).stem == 'vivo' else 1)
+    priority = {'meuguia': 0, 'vivo': 1, 'claro': 2, 'prime': 3}
+    files.sort(key=lambda path: priority.get(Path(path).stem, 4))
     return files, report

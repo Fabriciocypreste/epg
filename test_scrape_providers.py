@@ -1,10 +1,30 @@
 import unittest
+import json
+from datetime import datetime
+from zoneinfo import ZoneInfo
 from unittest.mock import patch
 import xml.etree.ElementTree as ET
-from scrape_providers import xml_time, add_program, scrape
+from scrape_providers import xml_time, add_program, scrape, parse_prime, parse_meuguia
 
 
 class ScraperTests(unittest.TestCase):
+    def test_meuguia_date_rollover_next_start_and_last_item(self):
+        html = '<ul class="mw"><li class="subheader">quinta-feira, 31/12</li><li><a title="Match"><span class="time">23:00</span><h3>Futebol</h3></a></li><li class="subheader">sexta-feira, 1/1</li><li><a title="News"><span class="time">01:00</span></a></li></ul>'
+        now = datetime(2026, 12, 31, 22, tzinfo=ZoneInfo('America/Sao_Paulo'))
+        items = parse_meuguia(html, 'SPO', now)
+        self.assertEqual(len(items), 1)
+        self.assertEqual(items[0].get('stop'), '20270101010000 -0300')
+        self.assertEqual(items[0].find('category').text, 'Futebol')
+
+    def test_prime_epoch_milliseconds_and_deduplication(self):
+        entity = {'station': {'id': 'a', 'name': 'CazéTV', 'schedule': [{'start': 1791532800000, 'end': 1791536400000, 'metadata': {'title': 'Match', 'synopsis': 'Football'}}]}}
+        data = {'init': {'preparations': {'body': {'containers': [{'entities': [entity, entity]}]}}}}
+        html = '<script id="dv-web-page-hydration-data" type="application/json">' + json.dumps(data) + '</script>'
+        root = parse_prime(html, [{'names': ['CazéTV HD']}])
+        self.assertEqual(len(root.findall('programme')), 1)
+        self.assertEqual(root.find('programme').get('start'), '20261009080000 +0000')
+        self.assertEqual(root.find('programme/desc').text, 'Football')
+
     def test_claro_wall_clock_and_vivo_epoch(self):
         self.assertEqual(xml_time('2026-10-09T00:31Z', 'claro'), '20261009003100 -0300')
         self.assertEqual(xml_time(1791532800, 'vivo'), '20261009080000 +0000')
