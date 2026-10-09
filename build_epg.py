@@ -52,6 +52,11 @@ def timestamp(value):
 
 
 def fetch_xml(url):
+    if url.startswith('generated/'):
+        data = Path(url).read_bytes()
+        if len(data) > MAX_BYTES:
+            raise ValueError('Generated XML exceeds size limit')
+        return fromstring(data)
     if not url.startswith('https://'):
         raise ValueError('HTTPS required')
     with urlopen(Request(url, headers={'User-Agent': 'Fabriciocypreste-EPG/1.0'}), timeout=60) as response:
@@ -154,6 +159,9 @@ def main():
     parser.add_argument('--channels', type=Path, default=Path('channels.json'))
     parser.add_argument('--sources', type=Path, default=Path('sources.txt'))
     parser.add_argument('--output', type=Path, default=Path('output'))
+    parser.add_argument('--scrape', action='store_true')
+    parser.add_argument('--days', type=int, choices=range(1, 8), default=2)
+    parser.add_argument('--claro-city', default='1')
     args = parser.parse_args()
     if args.import_m3u:
         channels = import_playlist(args.import_m3u)
@@ -162,7 +170,13 @@ def main():
         return
     channels = json.loads(args.channels.read_text())
     sources = [line.strip() for line in args.sources.read_text().splitlines() if line.strip() and not line.startswith('#')]
+    provider_report = []
+    if args.scrape:
+        from scrape_providers import collect
+        direct, provider_report = collect(channels, 'generated', args.days, args.claro_city)
+        sources = direct + sources
     xml, report = assemble(channels, sources)
+    report['scrapers'] = provider_report
     args.output.mkdir(parents=True, exist_ok=True)
     (args.output / 'epg.xml').write_bytes(xml)
     (args.output / 'epg.xml.gz').write_bytes(gzip.compress(xml, mtime=0))

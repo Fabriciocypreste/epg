@@ -8,6 +8,8 @@ on:
     paths:
       - 'build_epg.py'
       - 'test_build_epg.py'
+      - 'scrape_providers.py'
+      - 'test_scrape_providers.py'
       - 'channels.json'
       - 'sources.txt'
       - 'requirements.txt'
@@ -33,7 +35,7 @@ jobs:
         run: |
           python -c "import json, os; ready = bool(json.load(open('channels.json'))); open(os.environ['GITHUB_OUTPUT'], 'a').write('ready=' + str(ready).lower() + '\\n'); print('Catalog configured:', ready)"
       - if: steps.catalog.outputs.ready == 'true'
-        run: python build_epg.py
+        run: python build_epg.py --scrape --days 2
       - name: Store generated EPG
         if: steps.catalog.outputs.ready == 'true'
         run: |
