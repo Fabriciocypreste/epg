@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T06:01:18.894444+00:00",
+  "generated_at": "2026-10-10T12:41:34.989719+00:00",
   "channels": [
     {
       "id": "m3u-9a68ecbd58739644",
@@ -1118,7 +1118,7 @@
         "TNT SERIES SD"
       ],
       "status": "mapped",
-      "programmes": 67,
+      "programmes": 64,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch2793"
     },
@@ -1445,7 +1445,7 @@
         "ESPN 3 SD"
       ],
       "status": "mapped",
-      "programmes": 121,
+      "programmes": 122,
       "source": "generated/meuguia.xml",
       "source_id": "meuguia-ES3"
     },
@@ -1457,7 +1457,7 @@
         "ESPN 4 SD"
       ],
       "status": "mapped",
-      "programmes": 117,
+      "programmes": 120,
       "source": "generated/meuguia.xml",
       "source_id": "meuguia-ES4"
     },
@@ -1592,7 +1592,7 @@
         "Sportv 2 SD"
       ],
       "status": "mapped",
-      "programmes": 96,
+      "programmes": 98,
       "source": "generated/meuguia.xml",
       "source_id": "meuguia-SP2"
     },
@@ -1604,7 +1604,7 @@
         "Sportv 3 SD"
       ],
       "status": "mapped",
-      "programmes": 129,
+      "programmes": 117,
       "source": "generated/meuguia.xml",
       "source_id": "meuguia-SP3"
     },
@@ -1624,7 +1624,7 @@
         "Combate SD"
       ],
       "status": "mapped",
-      "programmes": 80,
+      "programmes": 76,
       "source": "generated/meuguia.xml",
       "source_id": "meuguia-135"
     },
@@ -1857,7 +1857,7 @@
         "PREMIERE CLUBES SD"
       ],
       "status": "mapped",
-      "programmes": 280,
+      "programmes": 293,
       "source": "generated/meuguia.xml",
       "source_id": "meuguia-121"
     },
@@ -5520,12 +5520,12 @@
     {
       "url": "generated/meuguia.xml",
       "status": "ok",
-      "usable_programmes": 1325
+      "usable_programmes": 1328
     },
     {
       "url": "generated/vivo.xml",
       "status": "ok",
-      "usable_programmes": 5340
+      "usable_programmes": 5339
     },
     {
       "url": "generated/claro.xml",
@@ -5535,7 +5535,7 @@
     {
       "url": "generated/prime.xml",
       "status": "ok",
-      "usable_programmes": 13
+      "usable_programmes": 16
     },
     {
       "url": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml",
@@ -5582,21 +5582,21 @@
       "provider": "vivo",
       "status": "ok",
       "channels": 101,
-      "programmes": 5340,
+      "programmes": 5339,
       "failed_channel_requests": 0
     },
     {
       "provider": "prime",
       "status": "ok",
       "channels": 2,
-      "programmes": 13,
+      "programmes": 16,
       "failed_channel_requests": 0
     },
     {
       "provider": "meuguia",
       "status": "ok",
       "channels": 10,
-      "programmes": 1325,
+      "programmes": 1328,
       "failed_channel_requests": 0
     }
   ]
