@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T05:57:34.791924+00:00",
+  "generated_at": "2026-10-11T13:01:29.788254+00:00",
   "channels": [
     {
       "id": "m3u-9a68ecbd58739644",
@@ -1421,7 +1421,7 @@
         "Band Sports SD"
       ],
       "status": "mapped",
-      "programmes": 165,
+      "programmes": 171,
       "source": "generated/meuguia.xml",
       "source_id": "meuguia-BSP"
     },
@@ -1457,7 +1457,7 @@
         "ESPN 4 SD"
       ],
       "status": "mapped",
-      "programmes": 117,
+      "programmes": 116,
       "source": "generated/meuguia.xml",
       "source_id": "meuguia-ES4"
     },
@@ -1469,7 +1469,7 @@
         "ESPN 5 SD"
       ],
       "status": "mapped",
-      "programmes": 97,
+      "programmes": 96,
       "source": "generated/meuguia.xml",
       "source_id": "meuguia-ES5"
     },
@@ -1624,7 +1624,7 @@
         "Combate SD"
       ],
       "status": "mapped",
-      "programmes": 71,
+      "programmes": 70,
       "source": "generated/meuguia.xml",
       "source_id": "meuguia-135"
     },
@@ -5520,7 +5520,7 @@
     {
       "url": "generated/meuguia.xml",
       "status": "ok",
-      "usable_programmes": 1323
+      "usable_programmes": 1326
     },
     {
       "url": "generated/vivo.xml",
@@ -5535,7 +5535,7 @@
     {
       "url": "generated/prime.xml",
       "status": "ok",
-      "usable_programmes": 15
+      "usable_programmes": 12
     },
     {
       "url": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml",
@@ -5568,7 +5568,7 @@
       "error_type": "HTTPError"
     }
   ],
-  "programmes": 6294,
+  "programmes": 6297,
   "mapped_channels": 91,
   "scrapers": [
     {
@@ -5589,14 +5589,14 @@
       "provider": "prime",
       "status": "ok",
       "channels": 2,
-      "programmes": 15,
+      "programmes": 12,
       "failed_channel_requests": 0
     },
     {
       "provider": "meuguia",
       "status": "ok",
       "channels": 10,
-      "programmes": 1323,
+      "programmes": 1326,
       "failed_channel_requests": 0
     }
   ]
