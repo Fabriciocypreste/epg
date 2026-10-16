@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T11:34:02.595070+00:00",
+  "generated_at": "2026-10-16T16:46:13.310740+00:00",
   "channels": [
     {
       "id": "m3u-9a68ecbd58739644",
@@ -909,7 +909,7 @@
         "DISCOVERY CHANNEL SD"
       ],
       "status": "mapped",
-      "programmes": 61,
+      "programmes": 60,
       "source": "generated/claro.xml",
       "source_id": "claro-421"
     },
@@ -977,7 +977,7 @@
         "GLOBOPLAY NOVELAS SD"
       ],
       "status": "mapped",
-      "programmes": 58,
+      "programmes": 56,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch677"
     },
@@ -990,7 +990,7 @@
         "GNT SD"
       ],
       "status": "mapped",
-      "programmes": 62,
+      "programmes": 61,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch214"
     },
@@ -1009,7 +1009,7 @@
         "JOVEM PAN NEWS HD"
       ],
       "status": "mapped",
-      "programmes": 31,
+      "programmes": 29,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch5573"
     },
@@ -1118,7 +1118,7 @@
         "TNT SERIES SD"
       ],
       "status": "mapped",
-      "programmes": 68,
+      "programmes": 66,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch2793"
     },
@@ -1130,7 +1130,7 @@
         "UNIVERSAL TV SD"
       ],
       "status": "mapped",
-      "programmes": 58,
+      "programmes": 55,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch936"
     },
@@ -1329,7 +1329,7 @@
         "TNT NOVELAS SD"
       ],
       "status": "mapped",
-      "programmes": 61,
+      "programmes": 59,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch653"
     },
@@ -1349,7 +1349,7 @@
         "Telecine Action SD"
       ],
       "status": "mapped",
-      "programmes": 27,
+      "programmes": 25,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch111"
     },
@@ -1373,7 +1373,7 @@
         "Telecine Fun SD"
       ],
       "status": "mapped",
-      "programmes": 29,
+      "programmes": 28,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch155"
     },
@@ -1385,7 +1385,7 @@
         "Telecine Pipoca SD"
       ],
       "status": "mapped",
-      "programmes": 29,
+      "programmes": 28,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch112"
     },
@@ -1409,7 +1409,7 @@
         "Telecine Touch SD"
       ],
       "status": "mapped",
-      "programmes": 26,
+      "programmes": 25,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch154"
     },
@@ -1433,7 +1433,7 @@
         "ESPN 2 SD"
       ],
       "status": "mapped",
-      "programmes": 126,
+      "programmes": 125,
       "source": "generated/meuguia.xml",
       "source_id": "meuguia-ES2"
     },
@@ -1445,7 +1445,7 @@
         "ESPN 3 SD"
       ],
       "status": "mapped",
-      "programmes": 132,
+      "programmes": 131,
       "source": "generated/meuguia.xml",
       "source_id": "meuguia-ES3"
     },
@@ -1457,7 +1457,7 @@
         "ESPN 4 SD"
       ],
       "status": "mapped",
-      "programmes": 122,
+      "programmes": 121,
       "source": "generated/meuguia.xml",
       "source_id": "meuguia-ES4"
     },
@@ -1469,7 +1469,7 @@
         "ESPN 5 SD"
       ],
       "status": "mapped",
-      "programmes": 101,
+      "programmes": 100,
       "source": "generated/meuguia.xml",
       "source_id": "meuguia-ES5"
     },
@@ -1481,7 +1481,7 @@
         "ESPN 6 SD"
       ],
       "status": "mapped",
-      "programmes": 27,
+      "programmes": 26,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch3545"
     },
@@ -1496,7 +1496,7 @@
         "FISH TV SD"
       ],
       "status": "mapped",
-      "programmes": 77,
+      "programmes": 74,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch3379"
     },
@@ -1518,7 +1518,7 @@
         "X SPORTS SD"
       ],
       "status": "mapped",
-      "programmes": 38,
+      "programmes": 37,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch7179"
     },
@@ -1624,7 +1624,7 @@
         "Combate SD"
       ],
       "status": "mapped",
-      "programmes": 65,
+      "programmes": 64,
       "source": "generated/meuguia.xml",
       "source_id": "meuguia-135"
     },
@@ -1634,7 +1634,7 @@
         "Nsports FHD"
       ],
       "status": "mapped",
-      "programmes": 37,
+      "programmes": 35,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch6995"
     },
@@ -1917,7 +1917,7 @@
         "PREMIERE 6 SD"
       ],
       "status": "mapped",
-      "programmes": 9,
+      "programmes": 8,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch2440"
     },
@@ -2853,7 +2853,7 @@
         "FUTURA SD"
       ],
       "status": "mapped",
-      "programmes": 129,
+      "programmes": 124,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch2889"
     },
@@ -3612,7 +3612,7 @@
         "CINEMAX HD"
       ],
       "status": "mapped",
-      "programmes": 41,
+      "programmes": 40,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch932"
     },
@@ -4208,7 +4208,7 @@
         "TERRA VIVA"
       ],
       "status": "mapped",
-      "programmes": 53,
+      "programmes": 52,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch5553"
     },
@@ -4218,7 +4218,7 @@
         "AGRO +"
       ],
       "status": "mapped",
-      "programmes": 57,
+      "programmes": 55,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch4104"
     },
@@ -4228,7 +4228,7 @@
         "CANAL RURAL"
       ],
       "status": "mapped",
-      "programmes": 34,
+      "programmes": 32,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch6284"
     },
@@ -4238,7 +4238,7 @@
         "BAND NEWS HD"
       ],
       "status": "mapped",
-      "programmes": 54,
+      "programmes": 50,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch2795"
     },
@@ -4266,7 +4266,7 @@
         "GLOBO NEWS FHD"
       ],
       "status": "mapped",
-      "programmes": 39,
+      "programmes": 37,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch213"
     },
@@ -4277,7 +4277,7 @@
         "RECORD NEWS SD"
       ],
       "status": "mapped",
-      "programmes": 65,
+      "programmes": 61,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch2091"
     },
@@ -4288,7 +4288,7 @@
         "CANÇÃO NOVA HD"
       ],
       "status": "mapped",
-      "programmes": 74,
+      "programmes": 71,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch3652"
     },
@@ -4298,7 +4298,7 @@
         "TV NOVO TEMPO HD"
       ],
       "status": "mapped",
-      "programmes": 88,
+      "programmes": 81,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch5554"
     },
@@ -4324,7 +4324,7 @@
         "REDE VIDA"
       ],
       "status": "mapped",
-      "programmes": 76,
+      "programmes": 74,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch3546"
     },
@@ -4344,7 +4344,7 @@
         "TV EVANGELIZAR HD"
       ],
       "status": "mapped",
-      "programmes": 70,
+      "programmes": 69,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch7185"
     },
@@ -4371,7 +4371,7 @@
         "A&E SD"
       ],
       "status": "mapped",
-      "programmes": 77,
+      "programmes": 75,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch150"
     },
@@ -4382,7 +4382,7 @@
         "AMC SD"
       ],
       "status": "mapped",
-      "programmes": 37,
+      "programmes": 36,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch5580"
     },
@@ -4393,7 +4393,7 @@
         "AXN SD"
       ],
       "status": "mapped",
-      "programmes": 56,
+      "programmes": 54,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch158"
     },
@@ -4405,7 +4405,7 @@
         "CANAL BRASIL SD"
       ],
       "status": "mapped",
-      "programmes": 44,
+      "programmes": 42,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch929"
     },
@@ -4417,7 +4417,7 @@
         "LIFETIME HD"
       ],
       "status": "mapped",
-      "programmes": 34,
+      "programmes": 33,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch2055"
     },
@@ -4429,7 +4429,7 @@
         "MEGAPIX SD"
       ],
       "status": "mapped",
-      "programmes": 25,
+      "programmes": 24,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch79"
     },
@@ -4440,7 +4440,7 @@
         "SPACE SD"
       ],
       "status": "mapped",
-      "programmes": 55,
+      "programmes": 53,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch108"
     },
@@ -4451,7 +4451,7 @@
         "STUDIO UNIVERSAL SD"
       ],
       "status": "mapped",
-      "programmes": 29,
+      "programmes": 28,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch2080"
     },
@@ -4462,7 +4462,7 @@
         "TNT SD"
       ],
       "status": "mapped",
-      "programmes": 61,
+      "programmes": 57,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch126"
     },
@@ -4473,7 +4473,7 @@
         "UNIVERSAL PREMIERE SD"
       ],
       "status": "mapped",
-      "programmes": 72,
+      "programmes": 69,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch7062"
     },
@@ -4484,7 +4484,7 @@
         "UNIVERSAL REALITY SD"
       ],
       "status": "mapped",
-      "programmes": 72,
+      "programmes": 70,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch7063"
     },
@@ -4497,7 +4497,7 @@
         "FOOD NETWORK SD"
       ],
       "status": "mapped",
-      "programmes": 97,
+      "programmes": 93,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch3874"
     },
@@ -4516,7 +4516,7 @@
         "TCM"
       ],
       "status": "mapped",
-      "programmes": 32,
+      "programmes": 31,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch7142"
     },
@@ -4528,7 +4528,7 @@
         "HBO SD"
       ],
       "status": "mapped",
-      "programmes": 28,
+      "programmes": 27,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch182"
     },
@@ -4540,7 +4540,7 @@
         "HBO 2 SD"
       ],
       "status": "mapped",
-      "programmes": 25,
+      "programmes": 24,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch459"
     },
@@ -4552,7 +4552,7 @@
         "HBO FAMILY SD"
       ],
       "status": "mapped",
-      "programmes": 29,
+      "programmes": 28,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch460"
     },
@@ -4564,7 +4564,7 @@
         "HBO MUNDI SD"
       ],
       "status": "mapped",
-      "programmes": 28,
+      "programmes": 27,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch933"
     },
@@ -4576,7 +4576,7 @@
         "HBO POP SD"
       ],
       "status": "mapped",
-      "programmes": 28,
+      "programmes": 27,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch76"
     },
@@ -4588,7 +4588,7 @@
         "HBO PLUS SD"
       ],
       "status": "mapped",
-      "programmes": 26,
+      "programmes": 25,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch462"
     },
@@ -4600,7 +4600,7 @@
         "HBO SIGNATURE SD"
       ],
       "status": "mapped",
-      "programmes": 34,
+      "programmes": 33,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch461"
     },
@@ -4612,7 +4612,7 @@
         "HBO XTREME SD"
       ],
       "status": "mapped",
-      "programmes": 26,
+      "programmes": 25,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch7141"
     },
@@ -4632,7 +4632,7 @@
         "CARTOONITO SD"
       ],
       "status": "mapped",
-      "programmes": 344,
+      "programmes": 327,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch2794"
     },
@@ -4643,7 +4643,7 @@
         "DISCOVERY KIDS SD"
       ],
       "status": "mapped",
-      "programmes": 219,
+      "programmes": 207,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch770"
     },
@@ -4654,7 +4654,7 @@
         "GLOOB FHD"
       ],
       "status": "mapped",
-      "programmes": 145,
+      "programmes": 141,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch147"
     },
@@ -4666,7 +4666,7 @@
         "GLOOBINHO HD"
       ],
       "status": "mapped",
-      "programmes": 388,
+      "programmes": 372,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch3872"
     },
@@ -4693,7 +4693,7 @@
         "ARTE1 HD"
       ],
       "status": "mapped",
-      "programmes": 64,
+      "programmes": 61,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch2792"
     },
@@ -4705,7 +4705,7 @@
         "ADULT SWIM SD"
       ],
       "status": "mapped",
-      "programmes": 130,
+      "programmes": 125,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch128"
     },
@@ -4734,7 +4734,7 @@
         "DOGTV FHD"
       ],
       "status": "mapped",
-      "programmes": 50,
+      "programmes": 48,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch3811"
     },
@@ -4744,7 +4744,7 @@
         "DOGTV HD"
       ],
       "status": "mapped",
-      "programmes": 50,
+      "programmes": 48,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch3811"
     },
@@ -4754,7 +4754,7 @@
         "DOGTV SD"
       ],
       "status": "mapped",
-      "programmes": 50,
+      "programmes": 48,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch3811"
     },
@@ -4765,7 +4765,7 @@
         "E! HD"
       ],
       "status": "mapped",
-      "programmes": 59,
+      "programmes": 57,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch2073"
     },
@@ -4777,7 +4777,7 @@
         "MODO VIAGEM SD"
       ],
       "status": "mapped",
-      "programmes": 102,
+      "programmes": 98,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch56"
     },
@@ -4789,7 +4789,7 @@
         "TLC SD"
       ],
       "status": "mapped",
-      "programmes": 86,
+      "programmes": 83,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch1252"
     },
@@ -4809,7 +4809,7 @@
         "TV5 MONDE FHD"
       ],
       "status": "mapped",
-      "programmes": 96,
+      "programmes": 94,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch2104"
     },
@@ -4819,7 +4819,7 @@
         "TV5 MONDE HD"
       ],
       "status": "mapped",
-      "programmes": 96,
+      "programmes": 94,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch2104"
     },
@@ -4829,7 +4829,7 @@
         "TV5 MONDE SD"
       ],
       "status": "mapped",
-      "programmes": 96,
+      "programmes": 94,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch2104"
     },
@@ -4851,7 +4851,7 @@
         "ANIMAL PLANET SD"
       ],
       "status": "mapped",
-      "programmes": 65,
+      "programmes": 62,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch2199"
     },
@@ -4883,7 +4883,7 @@
         "HGTV SD"
       ],
       "status": "mapped",
-      "programmes": 89,
+      "programmes": 85,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch3960"
     },
@@ -4895,7 +4895,7 @@
         "ID SD"
       ],
       "status": "mapped",
-      "programmes": 72,
+      "programmes": 69,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch772"
     },
@@ -4907,7 +4907,7 @@
         "DISCOVERY SCIENCE SD"
       ],
       "status": "mapped",
-      "programmes": 62,
+      "programmes": 59,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch3286"
     },
@@ -4919,7 +4919,7 @@
         "DISCOVERY THEATER SD"
       ],
       "status": "mapped",
-      "programmes": 63,
+      "programmes": 60,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch39"
     },
@@ -4931,7 +4931,7 @@
         "DISCOVERY TURBO SD"
       ],
       "status": "mapped",
-      "programmes": 65,
+      "programmes": 64,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch1253"
     },
@@ -4943,7 +4943,7 @@
         "DISCOVERY WORLD SD"
       ],
       "status": "mapped",
-      "programmes": 104,
+      "programmes": 99,
       "source": "generated/vivo.xml",
       "source_id": "vivo-lch1242"
     },
@@ -5520,22 +5520,22 @@
     {
       "url": "generated/meuguia.xml",
       "status": "ok",
-      "usable_programmes": 1283
+      "usable_programmes": 1278
     },
     {
       "url": "generated/vivo.xml",
       "status": "ok",
-      "usable_programmes": 5349
+      "usable_programmes": 5141
     },
     {
       "url": "generated/claro.xml",
       "status": "ok",
-      "usable_programmes": 8678
+      "usable_programmes": 8464
     },
     {
       "url": "generated/prime.xml",
       "status": "ok",
-      "usable_programmes": 13
+      "usable_programmes": 11
     },
     {
       "url": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml",
@@ -5568,7 +5568,7 @@
       "error_type": "HTTPError"
     }
   ],
-  "programmes": 6351,
+  "programmes": 6152,
   "mapped_channels": 91,
   "scrapers": [
     {
@@ -5582,21 +5582,21 @@
       "provider": "vivo",
       "status": "ok",
       "channels": 101,
-      "programmes": 5349,
+      "programmes": 5341,
       "failed_channel_requests": 0
     },
     {
       "provider": "prime",
       "status": "ok",
       "channels": 2,
-      "programmes": 13,
+      "programmes": 11,
       "failed_channel_requests": 0
     },
     {
       "provider": "meuguia",
       "status": "ok",
       "channels": 10,
-      "programmes": 1283,
+      "programmes": 1278,
       "failed_channel_requests": 0
     }
   ]
