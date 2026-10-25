@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T04:52:58.537653+00:00",
+  "generated_at": "2026-10-25T11:42:51.195733+00:00",
   "channels": [
     {
       "id": "m3u-9a68ecbd58739644",
@@ -445,7 +445,7 @@
         "GLOBO SP FHD"
       ],
       "status": "mapped",
-      "programmes": 80,
+      "programmes": 72,
       "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
       "source_id": "GLOBO SP"
     },
@@ -1265,7 +1265,7 @@
         "XXX • XY MAX TV HD"
       ],
       "status": "mapped",
-      "programmes": 132,
+      "programmes": 121,
       "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
       "source_id": "CNT HD"
     },
@@ -1425,7 +1425,7 @@
         "Band Sports SD"
       ],
       "status": "mapped",
-      "programmes": 160,
+      "programmes": 158,
       "source": "generated/meuguia.xml",
       "source_id": "meuguia-BSP"
     },
@@ -1437,7 +1437,7 @@
         "ESPN 2 SD"
       ],
       "status": "mapped",
-      "programmes": 132,
+      "programmes": 133,
       "source": "generated/meuguia.xml",
       "source_id": "meuguia-ES2"
     },
@@ -1449,7 +1449,7 @@
         "ESPN 3 SD"
       ],
       "status": "mapped",
-      "programmes": 125,
+      "programmes": 124,
       "source": "generated/meuguia.xml",
       "source_id": "meuguia-ES3"
     },
@@ -1461,7 +1461,7 @@
         "ESPN 4 SD"
       ],
       "status": "mapped",
-      "programmes": 137,
+      "programmes": 139,
       "source": "generated/meuguia.xml",
       "source_id": "meuguia-ES4"
     },
@@ -1512,7 +1512,7 @@
         "GE tv SD"
       ],
       "status": "mapped",
-      "programmes": 6,
+      "programmes": 4,
       "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml",
       "source_id": "ge-tv"
     },
@@ -1630,7 +1630,7 @@
         "Combate SD"
       ],
       "status": "mapped",
-      "programmes": 69,
+      "programmes": 68,
       "source": "generated/meuguia.xml",
       "source_id": "meuguia-135"
     },
@@ -1651,7 +1651,7 @@
         "RECORD SÃO PAULO HD"
       ],
       "status": "mapped",
-      "programmes": 85,
+      "programmes": 80,
       "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
       "source_id": "RECORD - Sao Paulo"
     },
@@ -1823,7 +1823,7 @@
         "RECEITAS FAST HD"
       ],
       "status": "mapped",
-      "programmes": 56,
+      "programmes": 48,
       "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml",
       "source_id": "receitas-fast"
     },
@@ -1833,7 +1833,7 @@
         "MALHAÇÃO FAST HD"
       ],
       "status": "mapped",
-      "programmes": 73,
+      "programmes": 59,
       "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml",
       "source_id": "malhacao-fast"
     },
@@ -1843,7 +1843,7 @@
         "D.P.A. FAST HD"
       ],
       "status": "mapped",
-      "programmes": 69,
+      "programmes": 55,
       "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml",
       "source_id": "dpa-fast"
     },
@@ -2390,7 +2390,7 @@
         "FUEL TV (1080P)"
       ],
       "status": "mapped",
-      "programmes": 119,
+      "programmes": 108,
       "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
       "source_id": "FUEL TV HD"
     },
@@ -2480,7 +2480,7 @@
         "TV MANÁ BRASIL (1080P)"
       ],
       "status": "mapped",
-      "programmes": 138,
+      "programmes": 126,
       "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/vivoplay.xml",
       "source_id": "TV Brasil HD"
     },
@@ -4201,7 +4201,7 @@
         "CANAL DO BOI SD"
       ],
       "status": "mapped",
-      "programmes": 108,
+      "programmes": 106,
       "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
       "source_id": "CANAL DO BOI"
     },
@@ -4212,7 +4212,7 @@
         "CULTURA HD"
       ],
       "status": "mapped",
-      "programmes": 173,
+      "programmes": 159,
       "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
       "source_id": "CULTURA HD"
     },
@@ -4222,7 +4222,7 @@
         "REDE TV HD"
       ],
       "status": "mapped",
-      "programmes": 69,
+      "programmes": 63,
       "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/vivoplay.xml",
       "source_id": "RedeTV! HD"
     },
@@ -4273,7 +4273,7 @@
         "CNN BRASIL FHD"
       ],
       "status": "mapped",
-      "programmes": 81,
+      "programmes": 72,
       "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
       "source_id": "CNN BRASIL"
     },
@@ -4334,7 +4334,7 @@
         "REDE GOSPEL HD"
       ],
       "status": "mapped",
-      "programmes": 32,
+      "programmes": 23,
       "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml",
       "source_id": "REDE GOSPEL"
     },
@@ -4382,7 +4382,7 @@
         "TV PAI ETERNO HD"
       ],
       "status": "mapped",
-      "programmes": 134,
+      "programmes": 127,
       "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
       "source_id": "TV Pai Eterno HD"
     },
@@ -4538,7 +4538,7 @@
         "WARNER CHANNEL SD"
       ],
       "status": "mapped",
-      "programmes": 123,
+      "programmes": 120,
       "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
       "source_id": "WARNER CHANNEL"
     },
@@ -4748,7 +4748,7 @@
         "CURTA! HD"
       ],
       "status": "mapped",
-      "programmes": 83,
+      "programmes": 77,
       "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
       "source_id": "CURTA"
     },
@@ -4760,7 +4760,7 @@
         "CANAL OFF SD"
       ],
       "status": "mapped",
-      "programmes": 72,
+      "programmes": 59,
       "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml",
       "source_id": "canal-off"
     },
@@ -5537,7 +5537,7 @@
         "ESPN SD"
       ],
       "status": "mapped",
-      "programmes": 113,
+      "programmes": 112,
       "source": "generated/meuguia.xml",
       "source_id": "meuguia-ESP"
     },
@@ -5556,7 +5556,7 @@
     {
       "url": "generated/meuguia.xml",
       "status": "ok",
-      "usable_programmes": 1305
+      "usable_programmes": 1303
     },
     {
       "url": "generated/vivo.xml",
@@ -5571,27 +5571,27 @@
     {
       "url": "generated/prime.xml",
       "status": "ok",
-      "usable_programmes": 18
+      "usable_programmes": 16
     },
     {
       "url": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml",
       "status": "ok",
-      "usable_programmes": 3529
+      "usable_programmes": 2949
     },
     {
       "url": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/globo.xml",
       "status": "ok",
-      "usable_programmes": 3067
+      "usable_programmes": 2788
     },
     {
       "url": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
       "status": "ok",
-      "usable_programmes": 18457
+      "usable_programmes": 17005
     },
     {
       "url": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/vivoplay.xml",
       "status": "ok",
-      "usable_programmes": 18853
+      "usable_programmes": 17443
     },
     {
       "url": "https://raw.githubusercontent.com/iptv-com/epg/main/guides/brazil.xml",
@@ -5604,7 +5604,7 @@
       "error_type": "HTTPError"
     }
   ],
-  "programmes": 7988,
+  "programmes": 7832,
   "mapped_channels": 109,
   "scrapers": [
     {
@@ -5625,14 +5625,14 @@
       "provider": "prime",
       "status": "ok",
       "channels": 2,
-      "programmes": 18,
+      "programmes": 16,
       "failed_channel_requests": 0
     },
     {
       "provider": "meuguia",
       "status": "ok",
       "channels": 10,
-      "programmes": 1305,
+      "programmes": 1303,
       "failed_channel_requests": 0
     }
   ]
