@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T18:13:28.331015+00:00",
+  "generated_at": "2026-11-14T22:34:16.612547+00:00",
   "channels": [
     {
       "id": "m3u-9a68ecbd58739644",
@@ -445,7 +445,7 @@
         "GLOBO SP FHD"
       ],
       "status": "mapped",
-      "programmes": 103,
+      "programmes": 99,
       "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
       "source_id": "GLOBO SP"
     },
@@ -911,9 +911,9 @@
         "DISCOVERY CHANNEL SD"
       ],
       "status": "mapped",
-      "programmes": 9,
-      "source": "generated/prime.xml",
-      "source_id": "prime-amzn1.dv.gti.99d8e2d5-acab-48e6-afaf-65fa3bab4839"
+      "programmes": 55,
+      "source": "generated/claro.xml",
+      "source_id": "claro-421"
     },
     {
       "id": "8",
@@ -979,9 +979,9 @@
         "GLOBOPLAY NOVELAS SD"
       ],
       "status": "mapped",
-      "programmes": 113,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml",
-      "source_id": "globoplay-novelas"
+      "programmes": 49,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch677"
     },
     {
       "id": "GNT HD",
@@ -992,9 +992,9 @@
         "GNT SD"
       ],
       "status": "mapped",
-      "programmes": 124,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml",
-      "source_id": "gnt"
+      "programmes": 56,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch214"
     },
     {
       "id": "Hbo.br",
@@ -1011,9 +1011,9 @@
         "JOVEM PAN NEWS HD"
       ],
       "status": "mapped",
-      "programmes": 48,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
-      "source_id": "JOVEM PAN NEWS"
+      "programmes": 23,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch5573"
     },
     {
       "id": "Megapix.br",
@@ -1120,9 +1120,9 @@
         "TNT SERIES SD"
       ],
       "status": "mapped",
-      "programmes": 121,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml",
-      "source_id": "TNT SERIES HD"
+      "programmes": 53,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch2793"
     },
     {
       "id": "102",
@@ -1132,9 +1132,9 @@
         "UNIVERSAL TV SD"
       ],
       "status": "mapped",
-      "programmes": 136,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
-      "source_id": "UNIVERSAL TV HD"
+      "programmes": 48,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch936"
     },
     {
       "id": "0",
@@ -1265,7 +1265,7 @@
         "XXX • XY MAX TV HD"
       ],
       "status": "mapped",
-      "programmes": 187,
+      "programmes": 180,
       "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
       "source_id": "CNT HD"
     },
@@ -1333,9 +1333,9 @@
         "TNT NOVELAS SD"
       ],
       "status": "mapped",
-      "programmes": 116,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml",
-      "source_id": "TNT NOVELAS"
+      "programmes": 53,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch653"
     },
     {
       "id": "m3u-04ecc5795d46fd17",
@@ -1353,9 +1353,9 @@
         "Telecine Action SD"
       ],
       "status": "mapped",
-      "programmes": 52,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml",
-      "source_id": "telecine-action"
+      "programmes": 21,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch111"
     },
     {
       "id": "Telecine Cult HD",
@@ -1365,9 +1365,9 @@
         "Telecine Cult SD"
       ],
       "status": "mapped",
-      "programmes": 52,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml",
-      "source_id": "telecine-cult"
+      "programmes": 24,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch218"
     },
     {
       "id": "Telecine Fun HD",
@@ -1377,9 +1377,9 @@
         "Telecine Fun SD"
       ],
       "status": "mapped",
-      "programmes": 58,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml",
-      "source_id": "telecine-fun"
+      "programmes": 26,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch155"
     },
     {
       "id": "Telecine Pipoca HD",
@@ -1389,9 +1389,9 @@
         "Telecine Pipoca SD"
       ],
       "status": "mapped",
-      "programmes": 50,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml",
-      "source_id": "telecine-pipoca"
+      "programmes": 21,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch112"
     },
     {
       "id": "Telecine Premium HD",
@@ -1401,9 +1401,9 @@
         "Telecine Premium SD"
       ],
       "status": "mapped",
-      "programmes": 53,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml",
-      "source_id": "telecine-premium"
+      "programmes": 25,
+      "source": "generated/claro.xml",
+      "source_id": "claro-473"
     },
     {
       "id": "Telecine Touch HD",
@@ -1413,9 +1413,9 @@
         "Telecine Touch SD"
       ],
       "status": "mapped",
-      "programmes": 50,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml",
-      "source_id": "telecine-touch"
+      "programmes": 22,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch154"
     },
     {
       "id": "Band Sports HD",
@@ -1437,7 +1437,7 @@
         "ESPN 2 SD"
       ],
       "status": "mapped",
-      "programmes": 136,
+      "programmes": 135,
       "source": "generated/meuguia.xml",
       "source_id": "meuguia-ES2"
     },
@@ -1449,7 +1449,7 @@
         "ESPN 3 SD"
       ],
       "status": "mapped",
-      "programmes": 119,
+      "programmes": 117,
       "source": "generated/meuguia.xml",
       "source_id": "meuguia-ES3"
     },
@@ -1461,7 +1461,7 @@
         "ESPN 4 SD"
       ],
       "status": "mapped",
-      "programmes": 128,
+      "programmes": 127,
       "source": "generated/meuguia.xml",
       "source_id": "meuguia-ES4"
     },
@@ -1485,9 +1485,9 @@
         "ESPN 6 SD"
       ],
       "status": "mapped",
-      "programmes": 60,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml",
-      "source_id": "ESPN 6"
+      "programmes": 25,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch3545"
     },
     {
       "id": "40",
@@ -1500,9 +1500,9 @@
         "FISH TV SD"
       ],
       "status": "mapped",
-      "programmes": 187,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
-      "source_id": "FISH TV"
+      "programmes": 64,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch3379"
     },
     {
       "id": "466",
@@ -1512,7 +1512,7 @@
         "GE tv SD"
       ],
       "status": "mapped",
-      "programmes": 32,
+      "programmes": 29,
       "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml",
       "source_id": "ge-tv"
     },
@@ -1524,9 +1524,9 @@
         "X SPORTS SD"
       ],
       "status": "mapped",
-      "programmes": 59,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml",
-      "source_id": "Xsports"
+      "programmes": 26,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch7179"
     },
     {
       "id": "HBO Max 5",
@@ -1630,7 +1630,7 @@
         "Combate SD"
       ],
       "status": "mapped",
-      "programmes": 90,
+      "programmes": 89,
       "source": "generated/meuguia.xml",
       "source_id": "meuguia-135"
     },
@@ -1640,9 +1640,9 @@
         "Nsports FHD"
       ],
       "status": "mapped",
-      "programmes": 95,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
-      "source_id": "NSPORTS HD"
+      "programmes": 38,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch6995"
     },
     {
       "id": "186",
@@ -1651,7 +1651,7 @@
         "RECORD SÃO PAULO HD"
       ],
       "status": "mapped",
-      "programmes": 112,
+      "programmes": 106,
       "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
       "source_id": "RECORD - Sao Paulo"
     },
@@ -1823,7 +1823,7 @@
         "RECEITAS FAST HD"
       ],
       "status": "mapped",
-      "programmes": 168,
+      "programmes": 161,
       "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml",
       "source_id": "receitas-fast"
     },
@@ -1833,7 +1833,7 @@
         "MALHAÇÃO FAST HD"
       ],
       "status": "mapped",
-      "programmes": 202,
+      "programmes": 191,
       "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml",
       "source_id": "malhacao-fast"
     },
@@ -1843,7 +1843,7 @@
         "D.P.A. FAST HD"
       ],
       "status": "mapped",
-      "programmes": 193,
+      "programmes": 184,
       "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml",
       "source_id": "dpa-fast"
     },
@@ -1883,9 +1883,9 @@
         "PREMIERE 2 SD"
       ],
       "status": "mapped",
-      "programmes": 47,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml",
-      "source_id": "PREMIERE 2 HD"
+      "programmes": 6,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch142"
     },
     {
       "id": "Premiere 3 HD",
@@ -1895,9 +1895,9 @@
         "PREMIERE 3 SD"
       ],
       "status": "mapped",
-      "programmes": 47,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml",
-      "source_id": "PREMIERE 3 HD"
+      "programmes": 6,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch937"
     },
     {
       "id": "Premiere 4 HD",
@@ -1907,9 +1907,9 @@
         "PREMIERE 4 SD"
       ],
       "status": "mapped",
-      "programmes": 47,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml",
-      "source_id": "PREMIERE 4 HD"
+      "programmes": 8,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch1995"
     },
     {
       "id": "Premiere 5 HD",
@@ -1919,9 +1919,9 @@
         "PREMIERE 5 SD"
       ],
       "status": "mapped",
-      "programmes": 59,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
-      "source_id": "PREMIERE 5 HD"
+      "programmes": 6,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch1996"
     },
     {
       "id": "Premiere 6 HD",
@@ -1931,9 +1931,9 @@
         "PREMIERE 6 SD"
       ],
       "status": "mapped",
-      "programmes": 47,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml",
-      "source_id": "PREMIERE 6 HD"
+      "programmes": 8,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch2440"
     },
     {
       "id": "Premiere 7 SD",
@@ -1943,9 +1943,9 @@
         "PREMIERE 7 SD"
       ],
       "status": "mapped",
-      "programmes": 47,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml",
-      "source_id": "PREMIERE 7 HD"
+      "programmes": 7,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch2441"
     },
     {
       "id": "107",
@@ -1955,9 +1955,9 @@
         "PREMIERE 8 SD"
       ],
       "status": "mapped",
-      "programmes": 16,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/vivoplay.xml",
-      "source_id": "Premiere 8"
+      "programmes": 6,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch2439"
     },
     {
       "id": "m3u-5dc0f6285f0e1519",
@@ -2069,7 +2069,7 @@
         "NICKELODEON",
         "NICKELODEON EN ESPAÑOL"
       ],
-      "status": "no_programming",
+      "status": "ambiguous",
       "programmes": 0
     },
     {
@@ -2390,7 +2390,7 @@
         "FUEL TV (1080P)"
       ],
       "status": "mapped",
-      "programmes": 213,
+      "programmes": 204,
       "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
       "source_id": "FUEL TV HD"
     },
@@ -2480,7 +2480,7 @@
         "TV MANÁ BRASIL (1080P)"
       ],
       "status": "mapped",
-      "programmes": 241,
+      "programmes": 232,
       "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/vivoplay.xml",
       "source_id": "TV Brasil HD"
     },
@@ -2871,9 +2871,9 @@
         "FUTURA SD"
       ],
       "status": "mapped",
-      "programmes": 235,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml",
-      "source_id": "futura"
+      "programmes": 98,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch2889"
     },
     {
       "id": "Peppa Pig 24H",
@@ -3096,7 +3096,7 @@
       "names": [
         "Mega TV"
       ],
-      "status": "no_programming",
+      "status": "ambiguous",
       "programmes": 0
     },
     {
@@ -3630,9 +3630,9 @@
         "CINEMAX HD"
       ],
       "status": "mapped",
-      "programmes": 74,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
-      "source_id": "CINEMAX HD"
+      "programmes": 29,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch932"
     },
     {
       "id": "m3u-a02e45469cf202e7",
@@ -4201,7 +4201,7 @@
         "CANAL DO BOI SD"
       ],
       "status": "mapped",
-      "programmes": 136,
+      "programmes": 130,
       "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
       "source_id": "CANAL DO BOI"
     },
@@ -4212,7 +4212,7 @@
         "CULTURA HD"
       ],
       "status": "mapped",
-      "programmes": 284,
+      "programmes": 277,
       "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
       "source_id": "CULTURA HD"
     },
@@ -4222,7 +4222,7 @@
         "REDE TV HD"
       ],
       "status": "mapped",
-      "programmes": 98,
+      "programmes": 94,
       "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/vivoplay.xml",
       "source_id": "RedeTV! HD"
     },
@@ -4232,9 +4232,9 @@
         "TERRA VIVA"
       ],
       "status": "mapped",
-      "programmes": 108,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/vivoplay.xml",
-      "source_id": "Terra Viva"
+      "programmes": 39,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch5553"
     },
     {
       "id": "80",
@@ -4242,9 +4242,9 @@
         "AGRO +"
       ],
       "status": "mapped",
-      "programmes": 128,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/vivoplay.xml",
-      "source_id": "Agro+"
+      "programmes": 36,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch4104"
     },
     {
       "id": "Canal Rural SD",
@@ -4252,9 +4252,9 @@
         "CANAL RURAL"
       ],
       "status": "mapped",
-      "programmes": 104,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
-      "source_id": "CANAL RURAL"
+      "programmes": 25,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch6284"
     },
     {
       "id": "Band News SD",
@@ -4262,9 +4262,9 @@
         "BAND NEWS HD"
       ],
       "status": "mapped",
-      "programmes": 105,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml",
-      "source_id": "BAND NEWS"
+      "programmes": 55,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch2795"
     },
     {
       "id": "CNN Brasil HD",
@@ -4273,7 +4273,7 @@
         "CNN BRASIL FHD"
       ],
       "status": "mapped",
-      "programmes": 107,
+      "programmes": 104,
       "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
       "source_id": "CNN BRASIL"
     },
@@ -4292,9 +4292,9 @@
         "GLOBO NEWS FHD"
       ],
       "status": "mapped",
-      "programmes": 68,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml",
-      "source_id": "globonews"
+      "programmes": 37,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch213"
     },
     {
       "id": "Record News HD",
@@ -4303,9 +4303,9 @@
         "RECORD NEWS SD"
       ],
       "status": "mapped",
-      "programmes": 144,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
-      "source_id": "RECORD NEWS"
+      "programmes": 46,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch2091"
     },
     {
       "id": "300",
@@ -4314,9 +4314,9 @@
         "CANÇÃO NOVA HD"
       ],
       "status": "mapped",
-      "programmes": 141,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml",
-      "source_id": "Canção Nova"
+      "programmes": 60,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch3652"
     },
     {
       "id": "Tvnovotempo.br",
@@ -4324,9 +4324,9 @@
         "TV NOVO TEMPO HD"
       ],
       "status": "mapped",
-      "programmes": 169,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml",
-      "source_id": "TV Novo Tempo"
+      "programmes": 71,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch5554"
     },
     {
       "id": "59",
@@ -4334,7 +4334,7 @@
         "REDE GOSPEL HD"
       ],
       "status": "mapped",
-      "programmes": 89,
+      "programmes": 85,
       "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml",
       "source_id": "REDE GOSPEL"
     },
@@ -4352,9 +4352,9 @@
         "REDE VIDA"
       ],
       "status": "mapped",
-      "programmes": 145,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml",
-      "source_id": "Rede Vida HD"
+      "programmes": 51,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch3546"
     },
     {
       "id": "TV Aparecida SD",
@@ -4362,9 +4362,9 @@
         "TV APARECIDA"
       ],
       "status": "mapped",
-      "programmes": 148,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
-      "source_id": "TV APARECIDA HD"
+      "programmes": 45,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch3648"
     },
     {
       "id": "TV Evangelizar SD",
@@ -4372,9 +4372,9 @@
         "TV EVANGELIZAR HD"
       ],
       "status": "mapped",
-      "programmes": 161,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/vivoplay.xml",
-      "source_id": "TV Evangelizar"
+      "programmes": 49,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch7185"
     },
     {
       "id": "373",
@@ -4382,7 +4382,7 @@
         "TV PAI ETERNO HD"
       ],
       "status": "mapped",
-      "programmes": 193,
+      "programmes": 183,
       "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
       "source_id": "TV Pai Eterno HD"
     },
@@ -4401,9 +4401,9 @@
         "A&E SD"
       ],
       "status": "mapped",
-      "programmes": 182,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
-      "source_id": "A&E"
+      "programmes": 68,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch150"
     },
     {
       "id": "AMC HD",
@@ -4412,9 +4412,9 @@
         "AMC SD"
       ],
       "status": "mapped",
-      "programmes": 93,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
-      "source_id": "AMC HD"
+      "programmes": 33,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch5580"
     },
     {
       "id": "AXN HD",
@@ -4423,9 +4423,9 @@
         "AXN SD"
       ],
       "status": "mapped",
-      "programmes": 135,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
-      "source_id": "AXN"
+      "programmes": 46,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch158"
     },
     {
       "id": "Canal Brasil HD",
@@ -4435,9 +4435,9 @@
         "CANAL BRASIL SD"
       ],
       "status": "mapped",
-      "programmes": 114,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml",
-      "source_id": "canal-brasil"
+      "programmes": 52,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch929"
     },
     {
       "id": "Lifetime HD",
@@ -4447,9 +4447,9 @@
         "LIFETIME HD"
       ],
       "status": "mapped",
-      "programmes": 88,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
-      "source_id": "LIFETIME"
+      "programmes": 29,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch2055"
     },
     {
       "id": "Megapix 4K",
@@ -4459,9 +4459,9 @@
         "MEGAPIX SD"
       ],
       "status": "mapped",
-      "programmes": 48,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml",
-      "source_id": "megapix"
+      "programmes": 22,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch79"
     },
     {
       "id": "Space 4K",
@@ -4470,9 +4470,9 @@
         "SPACE SD"
       ],
       "status": "mapped",
-      "programmes": 87,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml",
-      "source_id": "SPACE HD"
+      "programmes": 33,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch108"
     },
     {
       "id": "Studio Universal HD",
@@ -4481,9 +4481,9 @@
         "STUDIO UNIVERSAL SD"
       ],
       "status": "mapped",
-      "programmes": 67,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml",
-      "source_id": "studio-universal"
+      "programmes": 28,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch2080"
     },
     {
       "id": "TNT 4K",
@@ -4492,9 +4492,9 @@
         "TNT SD"
       ],
       "status": "mapped",
-      "programmes": 88,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml",
-      "source_id": "TNT HD"
+      "programmes": 42,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch126"
     },
     {
       "id": "323",
@@ -4503,9 +4503,9 @@
         "UNIVERSAL PREMIERE SD"
       ],
       "status": "mapped",
-      "programmes": 145,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml",
-      "source_id": "UNIVERSAL PREMIERE HD"
+      "programmes": 56,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch7062"
     },
     {
       "id": "324",
@@ -4514,9 +4514,9 @@
         "UNIVERSAL REALITY SD"
       ],
       "status": "mapped",
-      "programmes": 186,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
-      "source_id": "UNIVERSAL REALITY"
+      "programmes": 53,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch7063"
     },
     {
       "id": "Food Network HD",
@@ -4527,9 +4527,9 @@
         "FOOD NETWORK SD"
       ],
       "status": "mapped",
-      "programmes": 10,
-      "source": "generated/prime.xml",
-      "source_id": "prime-amzn1.dv.gti.be74cd43-0aab-4eeb-9b64-4f6d1e556afa"
+      "programmes": 74,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch3874"
     },
     {
       "id": "Warner Channel HD",
@@ -4538,7 +4538,7 @@
         "WARNER CHANNEL SD"
       ],
       "status": "mapped",
-      "programmes": 192,
+      "programmes": 179,
       "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
       "source_id": "WARNER CHANNEL"
     },
@@ -4548,9 +4548,9 @@
         "TCM"
       ],
       "status": "mapped",
-      "programmes": 97,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/vivoplay.xml",
-      "source_id": "TCM"
+      "programmes": 29,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch7142"
     },
     {
       "id": "HBO HD",
@@ -4560,9 +4560,9 @@
         "HBO SD"
       ],
       "status": "mapped",
-      "programmes": 70,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/vivoplay.xml",
-      "source_id": "HBO HD"
+      "programmes": 23,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch182"
     },
     {
       "id": "HBO 2 HD",
@@ -4572,9 +4572,9 @@
         "HBO 2 SD"
       ],
       "status": "mapped",
-      "programmes": 65,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
-      "source_id": "HBO2"
+      "programmes": 23,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch459"
     },
     {
       "id": "HBO Family HD",
@@ -4584,9 +4584,9 @@
         "HBO FAMILY SD"
       ],
       "status": "mapped",
-      "programmes": 69,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
-      "source_id": "HBO Family"
+      "programmes": 23,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch460"
     },
     {
       "id": "HBO Mundi HD",
@@ -4596,9 +4596,9 @@
         "HBO MUNDI SD"
       ],
       "status": "mapped",
-      "programmes": 65,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
-      "source_id": "HBO Mundi"
+      "programmes": 22,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch933"
     },
     {
       "id": "265",
@@ -4608,9 +4608,9 @@
         "HBO POP SD"
       ],
       "status": "mapped",
-      "programmes": 58,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
-      "source_id": "HBO Pop"
+      "programmes": 24,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch76"
     },
     {
       "id": "262",
@@ -4620,9 +4620,9 @@
         "HBO PLUS SD"
       ],
       "status": "mapped",
-      "programmes": 66,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/vivoplay.xml",
-      "source_id": "HBO Plus HD"
+      "programmes": 20,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch462"
     },
     {
       "id": "HBO Signature HD",
@@ -4632,9 +4632,9 @@
         "HBO SIGNATURE SD"
       ],
       "status": "mapped",
-      "programmes": 93,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
-      "source_id": "HBO Signature"
+      "programmes": 42,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch461"
     },
     {
       "id": "HBO Xtreme HD",
@@ -4644,9 +4644,9 @@
         "HBO XTREME SD"
       ],
       "status": "mapped",
-      "programmes": 68,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
-      "source_id": "HBO Xtreme"
+      "programmes": 22,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch7141"
     },
     {
       "id": "Cartoon Network 4K",
@@ -4654,7 +4654,7 @@
         "CARTOON NETWORK HD",
         "CARTOON NETWORK SD"
       ],
-      "status": "no_programming",
+      "status": "ambiguous",
       "programmes": 0
     },
     {
@@ -4664,9 +4664,9 @@
         "CARTOONITO SD"
       ],
       "status": "mapped",
-      "programmes": 816,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
-      "source_id": "CARTOONITO"
+      "programmes": 280,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch2794"
     },
     {
       "id": "Discovery Kids HD",
@@ -4675,9 +4675,9 @@
         "DISCOVERY KIDS SD"
       ],
       "status": "mapped",
-      "programmes": 579,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
-      "source_id": "DISCOVERY KIDS HD"
+      "programmes": 188,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch770"
     },
     {
       "id": "Gloob HD",
@@ -4686,9 +4686,9 @@
         "GLOOB FHD"
       ],
       "status": "mapped",
-      "programmes": 264,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml",
-      "source_id": "gloob"
+      "programmes": 105,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch147"
     },
     {
       "id": "94",
@@ -4698,9 +4698,9 @@
         "GLOOBINHO HD"
       ],
       "status": "mapped",
-      "programmes": 749,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml",
-      "source_id": "gloobinho"
+      "programmes": 345,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch3872"
     },
     {
       "id": "TV Ra tim bum FHD",
@@ -4715,7 +4715,7 @@
       "names": [
         "ZOOMOO"
       ],
-      "status": "no_programming",
+      "status": "ambiguous",
       "programmes": 0
     },
     {
@@ -4725,9 +4725,9 @@
         "ARTE1 HD"
       ],
       "status": "mapped",
-      "programmes": 140,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
-      "source_id": "ARTE 1 HD"
+      "programmes": 46,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch2792"
     },
     {
       "id": "322",
@@ -4737,9 +4737,9 @@
         "ADULT SWIM SD"
       ],
       "status": "mapped",
-      "programmes": 311,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
-      "source_id": "Adult Swim HD"
+      "programmes": 100,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch128"
     },
     {
       "id": "Curta SD",
@@ -4748,7 +4748,7 @@
         "CURTA! HD"
       ],
       "status": "mapped",
-      "programmes": 144,
+      "programmes": 139,
       "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
       "source_id": "CURTA"
     },
@@ -4760,7 +4760,7 @@
         "CANAL OFF SD"
       ],
       "status": "mapped",
-      "programmes": 193,
+      "programmes": 184,
       "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml",
       "source_id": "canal-off"
     },
@@ -4770,9 +4770,9 @@
         "DOGTV FHD"
       ],
       "status": "mapped",
-      "programmes": 20,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
-      "source_id": "DOG TV HD"
+      "programmes": 41,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch3811"
     },
     {
       "id": "m3u-328e5c9a98208572",
@@ -4780,9 +4780,9 @@
         "DOGTV HD"
       ],
       "status": "mapped",
-      "programmes": 20,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
-      "source_id": "DOG TV HD"
+      "programmes": 41,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch3811"
     },
     {
       "id": "m3u-d8cf36b9c89b9307",
@@ -4790,9 +4790,9 @@
         "DOGTV SD"
       ],
       "status": "mapped",
-      "programmes": 20,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
-      "source_id": "DOG TV HD"
+      "programmes": 41,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch3811"
     },
     {
       "id": "87",
@@ -4801,9 +4801,9 @@
         "E! HD"
       ],
       "status": "mapped",
-      "programmes": 139,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
-      "source_id": "E!"
+      "programmes": 47,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch2073"
     },
     {
       "id": "100",
@@ -4813,9 +4813,9 @@
         "MODO VIAGEM SD"
       ],
       "status": "mapped",
-      "programmes": 207,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml",
-      "source_id": "modo-viagem"
+      "programmes": 91,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch56"
     },
     {
       "id": "TLC HD",
@@ -4825,9 +4825,9 @@
         "TLC SD"
       ],
       "status": "mapped",
-      "programmes": 183,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
-      "source_id": "TLC HD"
+      "programmes": 67,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch1252"
     },
     {
       "id": "81",
@@ -4845,9 +4845,9 @@
         "TV5 MONDE FHD"
       ],
       "status": "mapped",
-      "programmes": 203,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
-      "source_id": "TV5 MONDE"
+      "programmes": 91,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch2104"
     },
     {
       "id": "m3u-88aca98c22f1f351",
@@ -4855,9 +4855,9 @@
         "TV5 MONDE HD"
       ],
       "status": "mapped",
-      "programmes": 203,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
-      "source_id": "TV5 MONDE"
+      "programmes": 91,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch2104"
     },
     {
       "id": "m3u-bb658f2db3764a5a",
@@ -4865,9 +4865,9 @@
         "TV5 MONDE SD"
       ],
       "status": "mapped",
-      "programmes": 203,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
-      "source_id": "TV5 MONDE"
+      "programmes": 91,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch2104"
     },
     {
       "id": "Woohoo HD",
@@ -4887,9 +4887,9 @@
         "ANIMAL PLANET SD"
       ],
       "status": "mapped",
-      "programmes": 162,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
-      "source_id": "ANIMAL PLANET HD"
+      "programmes": 58,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch2199"
     },
     {
       "id": "Historychannel.br",
@@ -4919,9 +4919,9 @@
         "HGTV SD"
       ],
       "status": "mapped",
-      "programmes": 15,
-      "source": "generated/prime.xml",
-      "source_id": "prime-amzn1.dv.gti.c6acaf31-45d1-41c6-b363-3e326d1ff187"
+      "programmes": 75,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch3960"
     },
     {
       "id": "13",
@@ -4931,9 +4931,9 @@
         "ID SD"
       ],
       "status": "mapped",
-      "programmes": 174,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
-      "source_id": "ID HD"
+      "programmes": 58,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch772"
     },
     {
       "id": "Discovery Science HD",
@@ -4943,9 +4943,9 @@
         "DISCOVERY SCIENCE SD"
       ],
       "status": "mapped",
-      "programmes": 145,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
-      "source_id": "DISCOVERY SCIENCE HD"
+      "programmes": 51,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch3286"
     },
     {
       "id": "Discovery Theater HD",
@@ -4955,9 +4955,9 @@
         "DISCOVERY THEATER SD"
       ],
       "status": "mapped",
-      "programmes": 147,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
-      "source_id": "DISCOVERY THEATER HD"
+      "programmes": 51,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch39"
     },
     {
       "id": "Discovery Turbo HD",
@@ -4967,9 +4967,9 @@
         "DISCOVERY TURBO SD"
       ],
       "status": "mapped",
-      "programmes": 161,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
-      "source_id": "DISCOVERY TURBO HD"
+      "programmes": 57,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch1253"
     },
     {
       "id": "Discovery World HD",
@@ -4979,9 +4979,9 @@
         "DISCOVERY WORLD SD"
       ],
       "status": "mapped",
-      "programmes": 248,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
-      "source_id": "DISCOVERY WORLD HD"
+      "programmes": 88,
+      "source": "generated/vivo.xml",
+      "source_id": "vivo-lch1242"
     },
     {
       "id": "m3u-bd39ed490cf6e07b",
@@ -5537,7 +5537,7 @@
         "ESPN SD"
       ],
       "status": "mapped",
-      "programmes": 118,
+      "programmes": 119,
       "source": "generated/meuguia.xml",
       "source_id": "meuguia-ESP"
     },
@@ -5547,41 +5547,46 @@
         "GAZETA HD"
       ],
       "status": "mapped",
-      "programmes": 64,
-      "source": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
-      "source_id": "GAZETA"
+      "programmes": 25,
+      "source": "generated/claro.xml",
+      "source_id": "claro-1292"
     }
   ],
   "sources": [
     {
       "url": "generated/meuguia.xml",
       "status": "ok",
-      "usable_programmes": 1361
+      "usable_programmes": 1357
     },
     {
-      "url": "generated/prime.xml",
+      "url": "generated/vivo.xml",
       "status": "ok",
-      "usable_programmes": 34
+      "usable_programmes": 4433
+    },
+    {
+      "url": "generated/claro.xml",
+      "status": "ok",
+      "usable_programmes": 7215
     },
     {
       "url": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml",
       "status": "ok",
-      "usable_programmes": 9149
+      "usable_programmes": 8687
     },
     {
       "url": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/globo.xml",
       "status": "ok",
-      "usable_programmes": 5508
+      "usable_programmes": 5274
     },
     {
       "url": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml",
       "status": "ok",
-      "usable_programmes": 26622
+      "usable_programmes": 25506
     },
     {
       "url": "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/vivoplay.xml",
       "status": "ok",
-      "usable_programmes": 27451
+      "usable_programmes": 26294
     },
     {
       "url": "https://raw.githubusercontent.com/iptv-com/epg/main/guides/brazil.xml",
@@ -5594,33 +5599,34 @@
       "error_type": "HTTPError"
     }
   ],
-  "programmes": 14738,
+  "programmes": 8327,
   "mapped_channels": 109,
   "scrapers": [
     {
       "provider": "claro",
-      "status": "error",
-      "error_type": "HTTPError",
-      "http_status": 500
+      "status": "ok",
+      "channels": 130,
+      "programmes": 8480,
+      "failed_channel_requests": 0
     },
     {
       "provider": "vivo",
-      "status": "error",
-      "error_type": "URLError",
-      "http_status": null
+      "status": "ok",
+      "channels": 101,
+      "programmes": 5305,
+      "failed_channel_requests": 0
     },
     {
       "provider": "prime",
-      "status": "ok",
-      "channels": 3,
-      "programmes": 34,
-      "failed_channel_requests": 0
+      "status": "error",
+      "error_type": "HTTPError",
+      "http_status": 503
     },
     {
       "provider": "meuguia",
       "status": "ok",
       "channels": 10,
-      "programmes": 1361,
+      "programmes": 1357,
       "failed_channel_requests": 0
     }
   ]
